@@ -104,11 +104,9 @@
         "type": "color"
       }
     },
-    "fontFamilies": {
-      "webde-sans": {
-        "value": "web.de Sans",
-        "type": "fontFamilies"
-      }
+    "Brand-Font": {
+      "value": "web.de Sans",
+      "type": "fontFamilies"
     }
   },
   "GMX": {
@@ -210,11 +208,9 @@
         "type": "color"
       }
     },
-    "fontFamilies": {
-      "roboto": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      }
+    "Brand-Font": {
+      "value": "Roboto",
+      "type": "fontFamilies"
     }
   }
 }
