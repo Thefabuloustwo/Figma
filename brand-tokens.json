@@ -110,7 +110,7 @@
     }
   },
   "GMX": {
-    "Brand Blue": {
+    "Brand-Primary": {
       "Dark 20": {
         "value": "#16367c",
         "type": "color"
@@ -152,13 +152,17 @@
         "type": "color"
       }
     },
-    "Brand Green": {
+    "Brand-Secondary": {
       "Dark 20": {
         "value": "#587a03",
         "type": "color"
       },
       "Dark 10": {
         "value": "#638904",
+        "type": "color"
+      },
+       "Default": {
+        "value": "#6E9804",
         "type": "color"
       },
       "Light 15": {
