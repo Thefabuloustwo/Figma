@@ -288,6 +288,18 @@
     "Brand-Font": {
       "value": "Roboto",
       "type": "fontFamilies"
+    },
+    "Button-M": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "Form-Element": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "Button-Border-Color": {
+      "value": "colors.GMX.Default",
+      "type": "other"
     }
   }
 }
