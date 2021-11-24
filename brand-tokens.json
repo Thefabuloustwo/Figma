@@ -172,6 +172,14 @@
     "Brand-Font": {
       "value": "web.de Sans",
       "type": "fontFamilies"
+    },
+    "Button-M": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "Form-Element-M": {
+      "value": "4px",
+      "type": "borderRadius"
     }
   },
   "GMX": {
