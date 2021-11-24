@@ -1,1 +1,68 @@
-
+{
+  "global": {
+    "Brand-Global-Black": {
+      "Dark 20": {
+        "value": "#292929",
+        "type": "color"
+      },
+      "Dark 10": {
+        "value": "#2e2e2e",
+        "type": "color"
+      },
+      "Default": {
+        "value": "#333333",
+        "type": "color"
+      },
+      "Light 15": {
+        "value": "#515151",
+        "type": "color"
+      },
+      "Light 30": {
+        "value": "#717171",
+        "type": "color"
+      },
+      "Light 50": {
+        "value": "#999999",
+        "type": "color"
+      },
+      "Light 70": {
+        "value": "#c2c2c2",
+        "type": "color"
+      },
+      "Light 82": {
+        "value": "#dadada",
+        "type": "color"
+      },
+      "Light 94": {
+        "value": "#f3f3f3",
+        "type": "color"
+      }
+    },
+    "Brand-Global-System": {
+      "Error": {
+        "value": "#d40000",
+        "type": "color"
+      },
+      "Success": {
+        "value": "#5cb82a",
+        "type": "color"
+      },
+      "Warning": {
+        "value": "#f0bc00",
+        "type": "color"
+      },
+      "Info": {
+        "value": "#1c8ad9",
+        "type": "color"
+      },
+      "Hyperlink": {
+        "value": "#2269c3",
+        "type": "color"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  }
+}
