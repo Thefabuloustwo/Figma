@@ -5,7 +5,7 @@
         "value": "#292929",
         "type": "color"
       },
-      "Dark 10": {
+      "Dark-10": {
         "value": "#2e2e2e",
         "type": "color"
       },
@@ -13,27 +13,27 @@
         "value": "#333333",
         "type": "color"
       },
-      "Light 15": {
+      "Light-15": {
         "value": "#515151",
         "type": "color"
       },
-      "Light 30": {
+      "Light-30": {
         "value": "#717171",
         "type": "color"
       },
-      "Light 50": {
+      "Light-50": {
         "value": "#999999",
         "type": "color"
       },
-      "Light 70": {
+      "Light-70": {
         "value": "#c2c2c2",
         "type": "color"
       },
-      "Light 82": {
+      "Light-82": {
         "value": "#dadada",
         "type": "color"
       },
-      "Light 94": {
+      "Light-94": {
         "value": "#f3f3f3",
         "type": "color"
       }
@@ -67,11 +67,11 @@
   },
   "WEBDE": {
     "Brand-Primary": {
-      "Dark 20": {
+      "Dark-20": {
         "value": "#ccad00",
         "type": "color"
       },
-      "Dark 10": {
+      "Dark-10": {
         "value": "#e5c200",
         "type": "color",
         "description": "E5C200"
@@ -80,31 +80,31 @@
         "value": "#ffd800",
         "type": "color"
       },
-      "Light 15": {
+      "Light-15": {
         "value": "#ffde26",
         "type": "color"
       },
-      "Light 30": {
+      "Light-30": {
         "value": "#ffe44d",
         "type": "color"
       },
-      "Light 40": {
+      "Light-40": {
         "value": "#ffe866",
         "type": "color"
       },
-      "Light 50": {
+      "Light-50": {
         "value": "#ffec80",
         "type": "color"
       },
-      "Light 70": {
+      "Light-70": {
         "value": "#fff3b3",
         "type": "color"
       },
-      "Light 82": {
+      "Light-82": {
         "value": "#fff8d1",
         "type": "color"
       },
-      "Light 92": {
+      "Light-92": {
         "value": "#fff8d0",
         "type": "color"
       }
