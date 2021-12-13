@@ -150,6 +150,24 @@
         "value": "#f2f8fd",
         "type": "color"
       }
+    },
+    "Buttons": {
+      "Primary": {
+        "Default": {
+          "value": "$Brand-Primary.Default",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "$Brand-Primary.Dark-20",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "Default": {
+          "value": "$Brand-Secondary.Default",
+          "type": "color"
+        }
+      }
     }
   },
   "GMX": {
@@ -550,6 +568,24 @@
       "none": {
         "value": "none",
         "type": "textDecoration"
+      }
+    },
+    "Buttons": {
+      "Primary": {
+        "Default": {
+          "value": "$Brand-Primary.Default",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "$Brand-Primary.Dark-20",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "Default": {
+          "value": "$Brand-Secondary.Default",
+          "type": "color"
+        }
       }
     }
   }
