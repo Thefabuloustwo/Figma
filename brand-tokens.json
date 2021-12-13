@@ -573,17 +573,17 @@
     "Buttons": {
       "Primary": {
         "Default": {
-          "value": "$Brand-Primary.Default",
+          "value": "$Brand-Secondary.Default",
           "type": "color"
         },
         "Hover": {
-          "value": "$Brand-Primary.Dark-20",
+          "value": "$Brand-Secondary.Dark-20",
           "type": "color"
         }
       },
       "Secondary": {
         "Default": {
-          "value": "$Brand-Secondary.Default",
+          "value": "$Brand-Primary.Default",
           "type": "color"
         }
       }
