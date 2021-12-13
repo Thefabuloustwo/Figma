@@ -154,20 +154,68 @@
     "Buttons": {
       "Primary": {
         "Default": {
-          "value": "$Brand-Primary.Default",
-          "type": "color"
+          "value": {
+            "fontFamily": "$fontFamilies.webde-sans",
+            "fontWeight": "$fontWeights.webde-sans-2",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
         },
         "Hover": {
-          "value": "$Brand-Primary.Dark-20",
-          "type": "color"
+          "value": {
+            "fontFamily": "$fontFamilies.webde-sans",
+            "fontWeight": "$fontWeights.webde-sans-2",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
         }
       },
       "Secondary": {
         "Default": {
-          "value": "$Brand-Secondary.Default",
-          "type": "color"
+          "value": {
+            "fontFamily": "$fontFamilies.webde-sans",
+            "fontWeight": "$fontWeights.webde-sans-2",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Hover": {
+          "value": {
+            "fontFamily": "$fontFamilies.webde-sans",
+            "fontWeight": "$fontWeights.webde-sans-2",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
         }
       }
+    },
+    "Button-Outline": {
+      "value": "1px",
+      "type": "borderWidth"
+    },
+    "Button": {
+      "value": "0px",
+      "type": "borderWidth"
     }
   },
   "GMX": {
