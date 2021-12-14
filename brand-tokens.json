@@ -613,18 +613,20 @@
         }
       }
     },
-    "Button-Text": {
-      "value": {
-        "fontFamily": "$fontFamilies.roboto",
-        "fontWeight": "$fontWeights.roboto-0",
-        "lineHeight": "$lineHeights.0",
-        "fontSize": "$fontSize.5",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
-      },
-      "type": "typography"
+    "UI": {
+      "Button-Text": {
+        "value": {
+          "fontFamily": "$fontFamilies.roboto",
+          "fontWeight": "$fontWeights.roboto-0",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.5",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      }
     }
   }
 }
