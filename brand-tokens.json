@@ -151,19 +151,6 @@
         "type": "color"
       }
     },
-    "Button-Text": {
-      "value": {
-        "fontFamily": "$fontFamilies.webde-sans",
-        "fontWeight": "$fontWeights.webde-sans-2",
-        "lineHeight": "$lineHeights.4",
-        "fontSize": "$fontSize.2",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
-      },
-      "type": "typography"
-    },
     "Button": {
       "Primary": {
         "Default": {
@@ -186,6 +173,35 @@
           "description": "Border, Background, Text"
         }
       }
+    },
+    "fontFamilies": {
+      "webde-sans": {
+        "value": "web.de Sans",
+        "type": "fontFamilies"
+      }
+    },
+    "fontWeights": {
+      "webde-sans-0": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "webde-sans-1": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "Button-Text": {
+      "value": {
+        "fontFamily": "$fontFamilies.roboto",
+        "fontWeight": "$fontWeights.roboto-2",
+        "lineHeight": "$lineHeights.4",
+        "fontSize": "$fontSize.2",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
     }
   },
   "GMX": {
