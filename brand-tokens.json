@@ -164,10 +164,6 @@
       },
       "type": "typography"
     },
-    "Button-Outline": {
-      "value": "1px",
-      "type": "borderWidth"
-    },
     "Button": {
       "Primary": {
         "Default": {
@@ -176,6 +172,10 @@
         },
         "Hover": {
           "value": "$Brand-Primary.Dark-20",
+          "type": "color"
+        },
+        "Default-Text": {
+          "value": "$Global.Brand-Global-Black.Default",
           "type": "color"
         }
       },
