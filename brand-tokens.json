@@ -190,18 +190,20 @@
         "type": "fontWeights"
       }
     },
-    "Button-Text": {
-      "value": {
-        "fontFamily": "$fontFamilies.webde-sans",
-        "fontWeight": "$fontWeights.webde-sans-0",
-        "lineHeight": "$lineHeights.4",
-        "fontSize": "$fontSize.2",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
-      },
-      "type": "typography"
+    "UI": {
+      "Button-Text": {
+        "value": {
+          "fontFamily": "$fontFamilies.webde-sans",
+          "fontWeight": "$fontWeights.webde-sans-0",
+          "lineHeight": "$lineHeights.4",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      }
     }
   },
   "GMX": {
@@ -242,7 +244,7 @@
         "value": "#d6dded",
         "type": "color"
       },
-      "Light-94": {
+      "Light-92": {
         "value": "#f2f4f9",
         "type": "color"
       }
@@ -284,7 +286,7 @@
         "value": "#e5ecd2",
         "type": "color"
       },
-      "Light-94": {
+      "Light-92": {
         "value": "#f6f9f0",
         "type": "color"
       }
