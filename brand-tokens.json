@@ -180,21 +180,19 @@
         "type": "fontFamilies"
       }
     },
-    "fontWeights": {
-      "webde-sans-0": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "webde-sans-1": {
-        "value": "Regular",
-        "type": "fontWeights"
-      }
+    "Bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "Regular": {
+      "value": "Regular",
+      "type": "fontWeights"
     },
     "UI": {
       "Button-Text": {
         "value": {
           "fontFamily": "$fontFamilies.webde-sans",
-          "fontWeight": "$fontWeights.webde-sans-0",
+          "fontWeight": "{Bold}",
           "lineHeight": "$lineHeights.4",
           "fontSize": "$fontSize.2",
           "letterSpacing": "$letterSpacing.0",
