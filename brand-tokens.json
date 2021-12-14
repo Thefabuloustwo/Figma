@@ -175,14 +175,15 @@
           "type": "color"
         },
         "Default-Text": {
-          "value": "$Global.Brand-Global-Black.Default",
+          "value": "#333333",
           "type": "color"
         }
       },
       "Secondary": {
         "Default": {
           "value": "$Brand-Secondary.Default",
-          "type": "color"
+          "type": "color",
+          "description": "Border, Background, Text"
         }
       }
     }
@@ -585,7 +586,7 @@
         "type": "textDecoration"
       }
     },
-    "Buttons": {
+    "Button": {
       "Primary": {
         "Default": {
           "value": "$Brand-Secondary.Default",
@@ -593,6 +594,10 @@
         },
         "Hover": {
           "value": "$Brand-Secondary.Dark-20",
+          "type": "color"
+        },
+        "Default-Text": {
+          "value": "#ffffff",
           "type": "color"
         }
       },
