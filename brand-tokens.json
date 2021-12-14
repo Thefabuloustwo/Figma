@@ -193,7 +193,7 @@
         "value": {
           "fontFamily": "$fontFamilies.webde-sans",
           "fontWeight": "{Bold}",
-          "lineHeight": "$lineHeights.4",
+          "lineHeight": "$lineHeights.0",
           "fontSize": "$fontSize.2",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
