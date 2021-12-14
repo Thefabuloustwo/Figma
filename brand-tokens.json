@@ -161,7 +161,7 @@
           "value": "$Brand-Primary.Dark-20",
           "type": "color"
         },
-        "Text-Default": {
+        "Default-Text": {
           "value": "#333333",
           "type": "color"
         }
@@ -171,10 +171,6 @@
           "value": "$Brand-Secondary.Default",
           "type": "color",
           "description": "Border, Background, Text"
-        },
-        "Text-Hover": {
-          "value": "#ffffff",
-          "type": "color"
         }
       }
     },
@@ -194,20 +190,18 @@
         "type": "fontWeights"
       }
     },
-    "UI": {
-      "Button-Text": {
-        "value": {
-          "fontFamily": "$fontFamilies.webde-sans",
-          "fontWeight": "$fontWeights.webde-sans-2",
-          "lineHeight": "$lineHeights.4",
-          "fontSize": "$fontSize.2",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      }
+    "Button-Text": {
+      "value": {
+        "fontFamily": "$fontFamilies.webde-sans",
+        "fontWeight": "$fontWeights.webde-sans-0",
+        "lineHeight": "$lineHeights.4",
+        "fontSize": "$fontSize.2",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
     }
   },
   "GMX": {
@@ -349,11 +343,11 @@
         "type": "lineHeights"
       }
     },
-    "Text-Bold": {
-      "value": "Bold",
-      "type": "fontWeights"
-    },
     "fontWeights": {
+      "roboto-0": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
       "roboto-1": {
         "value": "Regular",
         "type": "fontWeights"
@@ -425,7 +419,7 @@
       "Title": {
         "value": {
           "fontFamily": "$fontFamilies.roboto",
-          "fontWeight": "{Text-Bold}",
+          "fontWeight": "$fontWeights.roboto-0",
           "lineHeight": "$lineHeights.0",
           "fontSize": "$fontSize.7",
           "letterSpacing": "$letterSpacing.0",
@@ -453,7 +447,7 @@
       "Headline XXL": {
         "value": {
           "fontFamily": "$fontFamilies.roboto",
-          "fontWeight": "{Text-Bold}",
+          "fontWeight": "$fontWeights.roboto-0",
           "lineHeight": "$lineHeights.2",
           "fontSize": "$fontSize.9",
           "letterSpacing": "$letterSpacing.0",
@@ -466,7 +460,7 @@
       "Headline XL": {
         "value": {
           "fontFamily": "$fontFamilies.roboto",
-          "fontWeight": "{Text-Bold}",
+          "fontWeight": "$fontWeights.roboto-0",
           "lineHeight": "$lineHeights.3",
           "fontSize": "$fontSize.8",
           "letterSpacing": "$letterSpacing.0",
@@ -479,7 +473,7 @@
       "Headline L": {
         "value": {
           "fontFamily": "$fontFamilies.roboto",
-          "fontWeight": "{Text-Bold}",
+          "fontWeight": "$fontWeights.roboto-0",
           "lineHeight": "$lineHeights.1",
           "fontSize": "$fontSize.6",
           "letterSpacing": "$letterSpacing.0",
@@ -492,7 +486,7 @@
       "Headline M": {
         "value": {
           "fontFamily": "$fontFamilies.roboto",
-          "fontWeight": "{Text-Bold}",
+          "fontWeight": "$fontWeights.roboto-0",
           "lineHeight": "$lineHeights.4",
           "fontSize": "$fontSize.4",
           "letterSpacing": "$letterSpacing.0",
@@ -505,7 +499,7 @@
       "Headline S": {
         "value": {
           "fontFamily": "$fontFamilies.roboto",
-          "fontWeight": "{Text-Bold}",
+          "fontWeight": "$fontWeights.roboto-0",
           "lineHeight": "$lineHeights.5",
           "fontSize": "$fontSize.2",
           "letterSpacing": "$letterSpacing.0",
@@ -518,7 +512,7 @@
       "Headline XS": {
         "value": {
           "fontFamily": "$fontFamilies.roboto",
-          "fontWeight": "{Text-Bold}",
+          "fontWeight": "$fontWeights.roboto-0",
           "lineHeight": "$lineHeights.6",
           "fontSize": "$fontSize.1",
           "letterSpacing": "$letterSpacing.1",
@@ -605,7 +599,7 @@
           "value": "$Brand-Secondary.Dark-20",
           "type": "color"
         },
-        "Text-Default": {
+        "Default-Text": {
           "value": "#ffffff",
           "type": "color"
         }
@@ -617,20 +611,18 @@
         }
       }
     },
-    "UI": {
-      "Button-Text": {
-        "value": {
-          "fontFamily": "$fontFamilies.roboto",
-          "fontWeight": "{Text-Bold}",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.5",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      }
+    "Button-Text": {
+      "value": {
+        "fontFamily": "$fontFamilies.roboto",
+        "fontWeight": "$fontWeights.roboto-0",
+        "lineHeight": "$lineHeights.0",
+        "fontSize": "$fontSize.5",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
     }
   }
 }
