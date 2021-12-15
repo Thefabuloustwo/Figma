@@ -305,18 +305,20 @@
         "type": "typography"
       }
     },
-    "Article text desktop": {
-      "value": {
-        "fontFamily": "$fontFamilies.webde-sans",
-        "fontWeight": "$fontWeights.webde-sans-1",
-        "lineHeight": "$lineHeights.2",
-        "fontSize": "$fontSize.1",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
-      },
-      "type": "typography"
+    "Page": {
+      "Article Desktop": {
+        "value": {
+          "fontFamily": "$fontFamilies.webde-sans",
+          "fontWeight": "$fontWeights.webde-sans-1",
+          "lineHeight": "$lineHeights.2",
+          "fontSize": "$fontSize.1",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      }
     },
     "secondary text": {
       "value": {
@@ -599,7 +601,7 @@
         },
         "type": "typography"
       },
-      "Article Text": {
+      "Article Desktop": {
         "value": {
           "fontFamily": "$fontFamilies.roboto",
           "fontWeight": "$fontWeights.roboto-1",
