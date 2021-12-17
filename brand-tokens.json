@@ -904,7 +904,7 @@
           "type": "color"
         },
         "Default-Background": {
-          "value": "#01bac6",
+          "value": "$Brand-Primary.Default",
           "type": "color"
         },
         "Hover-Text": {
@@ -920,7 +920,7 @@
           "type": "color"
         },
         "Disabled-Background": {
-          "value": "#e6f8f9",
+          "value": "$Brand-Primary.Light-82",
           "type": "color"
         }
       },
