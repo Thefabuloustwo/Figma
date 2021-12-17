@@ -814,32 +814,32 @@
         "type": "color"
       },
       "Light-15": {
-        "value": "#01bac6d9",
+        "value": "rgba($Brand-Primary.Default 85%)",
         "type": "color"
       },
       "Light-30": {
-        "value": "#01bac6b3",
+        "value": "rgba($Brand-Primary.Default 70%)",
         "type": "color"
       },
       "Light-40": {
-        "value": "#01bac699",
+        "value": "rgba($Brand-Primary.Default 60%)",
         "type": "color",
         "description": "\n"
       },
       "Light-50": {
-        "value": "#01bac680",
+        "value": "rgba($Brand-Primary.Default 50%)",
         "type": "color"
       },
       "Light-70": {
-        "value": "#01bac64d",
+        "value": "rgba($Brand-Primary.Default 30%)",
         "type": "color"
       },
       "Light-82": {
-        "value": "#01bac626",
+        "value": "rgba($Brand-Primary.Default 18%)",
         "type": "color"
       },
       "Light-94": {
-        "value": "#01bac60f",
+        "value": "rgba($Brand-Primary.Default 6%)",
         "type": "color"
       }
     },
@@ -858,32 +858,32 @@
         "type": "color"
       },
       "Light-15": {
-        "value": "#1e90ffd9",
+        "value": "rgba($Brand-Secondary.Default 85%)",
         "type": "color",
         "description": "#909201"
       },
       "Light-30": {
-        "value": "#1e90ffb3",
+        "value": "rgba($Brand-Secondary.Default 70%)",
         "type": "color"
       },
       "Light-40": {
-        "value": "#1e90ff99",
+        "value": "rgba($Brand-Secondary.Default 60%)",
         "type": "color"
       },
       "Light-50": {
-        "value": "#1e90ff80",
+        "value": "rgba($Brand-Secondary.Default 50%)",
         "type": "color"
       },
       "Light-70": {
-        "value": "#1e90ff4d",
+        "value": "rgba($Brand-Secondary.Default 30%)",
         "type": "color"
       },
       "Light-82": {
-        "value": "#1e90ff2e",
+        "value": "rgba($Brand-Secondary.Default 18%)",
         "type": "color"
       },
       "Light-94": {
-        "value": "#1e90ff0f",
+        "value": "rgba($Brand-Secondary.Default 6%)",
         "type": "color"
       }
     },
