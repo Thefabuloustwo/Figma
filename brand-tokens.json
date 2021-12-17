@@ -104,7 +104,7 @@
         "value": "#fff8d1",
         "type": "color"
       },
-      "Light-94": {
+      "Light-92": {
         "value": "#fff8d0",
         "type": "color"
       }
@@ -146,7 +146,7 @@
         "value": "#d6eaf8",
         "type": "color"
       },
-      "Light-94": {
+      "Light-92": {
         "value": "#f2f8fd",
         "type": "color"
       }
@@ -164,26 +164,6 @@
         "Default-Text": {
           "value": "#333333",
           "type": "color"
-        },
-        "Default-Background": {
-          "value": "#ffd800",
-          "type": "color"
-        },
-        "Hover-Text": {
-          "value": "#333333",
-          "type": "color"
-        },
-        "Hover-Background": {
-          "value": "#ccad00",
-          "type": "color"
-        },
-        "Disabled-Text": {
-          "value": "#dadada",
-          "type": "color"
-        },
-        "Disabled-Background": {
-          "value": "#fff8d1",
-          "type": "color"
         }
       },
       "Secondary": {
@@ -191,35 +171,6 @@
           "value": "$Brand-Secondary.Default",
           "type": "color",
           "description": "Border, Background, Text"
-        },
-        "Default-Text": {
-          "value": "#1c8ad9",
-          "type": "color",
-          "description": "Border, Background, Text"
-        },
-        "Default-Background": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "Default-Border": {
-          "value": "#1c8ad9",
-          "type": "color"
-        },
-        "Hover-Text": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "Hover-Background": {
-          "value": "#1c8ad9",
-          "type": "color"
-        },
-        "Disabled-Text": {
-          "value": "#d6eaf8",
-          "type": "color"
-        },
-        "Disabled-Border": {
-          "value": "#d6eaf8",
-          "type": "color"
         }
       }
     },
@@ -422,26 +373,6 @@
       "underline": {
         "value": "underline",
         "type": "textDecoration"
-      }
-    },
-    "Label": {
-      "ViewType": {
-        "value": "#d6eaf8",
-        "type": "color"
-      },
-      "ViewType-Text": {
-        "value": "#166eae",
-        "type": "color"
-      }
-    },
-    "Form": {
-      "Selection": {
-        "value": "#1c8ad9",
-        "type": "color"
-      },
-      "Highlight": {
-        "value": "#f2f8fd",
-        "type": "color"
       }
     }
   },
@@ -956,16 +887,6 @@
         "type": "color"
       }
     },
-    "Label": {
-      "ViewType": {
-        "value": "#01bac626",
-        "type": "color"
-      },
-      "ViewType-Text": {
-        "value": "#01bac6",
-        "type": "color"
-      }
-    },
     "Button": {
       "Primary": {
         "Default-Text": {
@@ -1022,6 +943,16 @@
           "value": "#1e90ff2e",
           "type": "color"
         }
+      }
+    },
+    "Label": {
+      "ViewType": {
+        "value": "#01bac626",
+        "type": "color"
+      },
+      "ViewType-Text": {
+        "value": "#01bac6",
+        "type": "color"
       }
     },
     "Form": {
