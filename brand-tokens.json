@@ -894,7 +894,7 @@
           "type": "color"
         },
         "Default-Background": {
-          "value": "#01bac6",
+          "value": "{Brand-Primary.Default}",
           "type": "color"
         },
         "Hover-Text": {
@@ -902,7 +902,7 @@
           "type": "color"
         },
         "Hover-Background": {
-          "value": "#015d63",
+          "value": "{Brand-Primary.Dark-20}",
           "type": "color"
         },
         "Disabled-Text": {
@@ -910,17 +910,17 @@
           "type": "color"
         },
         "Disabled-Background": {
-          "value": "#01bac626",
+          "value": "{Brand-Primary.Light-82}",
           "type": "color"
         }
       },
       "Secondary": {
         "Default-Text": {
-          "value": "#1e90ff",
+          "value": "{Brand-Secondary.Default}",
           "type": "color"
         },
         "Default-Border": {
-          "value": "#1e90ff",
+          "value": "{Brand-Secondary.Default}",
           "type": "color"
         },
         "Default-Background": {
@@ -932,36 +932,36 @@
           "type": "color"
         },
         "Hover-Background": {
-          "value": "#1e90ff",
+          "value": "{Brand-Secondary.Default}",
           "type": "color"
         },
         "Disabled-Text": {
-          "value": "#1e90ff2e",
+          "value": "{Brand-Secondary.Light-82}",
           "type": "color"
         },
         "Disabled-Border": {
-          "value": "#1e90ff2e",
+          "value": "{Brand-Secondary.Light-82}",
           "type": "color"
         }
       }
     },
     "Label": {
       "ViewType": {
-        "value": "#01bac626",
+        "value": "{Brand-Primary.Light-82}",
         "type": "color"
       },
       "ViewType-Text": {
-        "value": "#01bac6",
+        "value": "{Brand-Primary.Default}",
         "type": "color"
       }
     },
     "Form": {
       "Selection": {
-        "value": "#01bac6",
+        "value": "{Brand-Primary.Light-82}",
         "type": "color"
       },
       "Highlight": {
-        "value": "#01bac626",
+        "value": "{Brand-Primary.Default}",
         "type": "color"
       }
     }
