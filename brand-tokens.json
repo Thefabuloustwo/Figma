@@ -814,32 +814,32 @@
         "type": "color"
       },
       "Light-15": {
-        "value": "rgba($Brand-Primary.Default 85%)",
+        "value": "#01bac6d9",
         "type": "color"
       },
       "Light-30": {
-        "value": "rgba($Brand-Primary.Default 70%)",
+        "value": "#01bac6b3",
         "type": "color"
       },
       "Light-40": {
-        "value": "rgba($Brand-Primary.Default 60%)",
+        "value": "#01bac699",
         "type": "color",
         "description": "\n"
       },
       "Light-50": {
-        "value": "rgba($Brand-Primary.Default 50%)",
+        "value": "#01bac680",
         "type": "color"
       },
       "Light-70": {
-        "value": "rgba($Brand-Primary.Default 30%)",
+        "value": "#01bac64d",
         "type": "color"
       },
       "Light-82": {
-        "value": "rgba($Brand-Primary.Default 15%)",
+        "value": "#01bac626",
         "type": "color"
       },
       "Light-94": {
-        "value": "rgba($Brand-Primary.Default 6%)",
+        "value": "#01bac60f",
         "type": "color"
       }
     },
@@ -858,42 +858,42 @@
         "type": "color"
       },
       "Light-15": {
-        "value": "rgba($Brand-Secondary.Default 85%)",
+        "value": "#1e90ffd9",
         "type": "color",
         "description": "#909201"
       },
       "Light-30": {
-        "value": "rgba($Brand-Secondary.Default 70%)",
+        "value": "#1e90ffb3",
         "type": "color"
       },
       "Light-40": {
-        "value": "rgba($Brand-Secondary.Default 60%)",
+        "value": "#1e90ff99",
         "type": "color"
       },
       "Light-50": {
-        "value": "rgba($Brand-Secondary.Default 50%)",
+        "value": "#1e90ff80",
         "type": "color"
       },
       "Light-70": {
-        "value": "rgba($Brand-Secondary.Default 30%)",
+        "value": "#1e90ff4d",
         "type": "color"
       },
       "Light-82": {
-        "value": "rgba($Brand-Secondary.Default 18%)",
+        "value": "#1e90ff2e",
         "type": "color"
       },
       "Light-94": {
-        "value": "rgba($Brand-Secondary.Default 6%)",
+        "value": "#1e90ff0f",
         "type": "color"
       }
     },
     "Label": {
       "ViewType": {
-        "value": "$Brand-Primary.Light-82",
+        "value": "#01bac626",
         "type": "color"
       },
       "ViewType-Text": {
-        "value": "$Brand-Primary.Default",
+        "value": "#01bac6",
         "type": "color"
       }
     },
@@ -904,7 +904,7 @@
           "type": "color"
         },
         "Default-Background": {
-          "value": "{Brand-Primary.Default}",
+          "value": "#01bac6",
           "type": "color"
         },
         "Hover-Text": {
@@ -912,7 +912,7 @@
           "type": "color"
         },
         "Hover-Background": {
-          "value": "{Brand-Primary.Dark-20}",
+          "value": "#015d63",
           "type": "color"
         },
         "Disabled-Text": {
@@ -920,17 +920,17 @@
           "type": "color"
         },
         "Disabled-Background": {
-          "value": "{Brand-Primary.Light-82}",
+          "value": "#01bac626",
           "type": "color"
         }
       },
       "Secondary": {
         "Default-Text": {
-          "value": "{Brand-Secondary.Default}",
+          "value": "#1e90ff",
           "type": "color"
         },
         "Default-Border": {
-          "value": "{Brand-Secondary.Default}",
+          "value": "#1e90ff",
           "type": "color"
         },
         "Default-Background": {
@@ -942,26 +942,26 @@
           "type": "color"
         },
         "Hover-Background": {
-          "value": "{Brand-Secondary.Default}",
+          "value": "#1e90ff",
           "type": "color"
         },
         "Disabled-Text": {
-          "value": "rgba($Brand-Secondary.Default 18%)",
+          "value": "#1e90ff2e",
           "type": "color"
         },
         "Disabled-Border": {
-          "value": "rgba($Brand-Secondary.Default 18%)",
+          "value": "#1e90ff2e",
           "type": "color"
         }
       }
     },
     "Form": {
       "Selection": {
-        "value": "{Brand-Primary.Default}",
+        "value": "#01bac6",
         "type": "color"
       },
       "Highlight": {
-        "value": "{Brand-Primary.Light-82}",
+        "value": "#01bac626",
         "type": "color"
       }
     }
