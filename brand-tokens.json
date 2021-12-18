@@ -384,7 +384,8 @@
       },
       "Dark-10": {
         "value": "#193d8b",
-        "type": "color"
+        "type": "color",
+        "description": "E5C200"
       },
       "Default": {
         "value": "#1c449b",
@@ -414,7 +415,7 @@
         "value": "#d6dded",
         "type": "color"
       },
-      "Light-92": {
+      "Light-94": {
         "value": "#f2f4f9",
         "type": "color"
       }
@@ -456,7 +457,7 @@
         "value": "#e5ecd2",
         "type": "color"
       },
-      "Light-92": {
+      "Light-94": {
         "value": "#f6f9f0",
         "type": "color"
       }
@@ -761,28 +762,6 @@
         "type": "textDecoration"
       }
     },
-    "Button": {
-      "Primary": {
-        "Default": {
-          "value": "$Brand-Secondary.Default",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "$Brand-Secondary.Dark-20",
-          "type": "color"
-        },
-        "Default-Text": {
-          "value": "#ffffff",
-          "type": "color"
-        }
-      },
-      "Secondary": {
-        "Default": {
-          "value": "$Brand-Primary.Default",
-          "type": "color"
-        }
-      }
-    },
     "UI": {
       "Button-Text": {
         "value": {
@@ -796,6 +775,96 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography"
+      }
+    },
+    "Label": {
+      "ViewType": {
+        "value": "#d6dded",
+        "type": "color"
+      },
+      "ViewType-Text": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      }
+    },
+    "Button": {
+      "Primary": {
+        "Default": {
+          "Default-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Default-Background": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Hover-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Hover-Background": {
+            "value": "{Brand-Secondary.Dark-20}",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Disabled-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Disabled-Background": {
+            "value": "{Brand-Secondary.Light-82}",
+            "type": "color"
+          }
+        }
+      },
+      "Secondary": {
+        "Default": {
+          "Default-Text": {
+            "value": "{Brand-Primary.Default}",
+            "type": "color"
+          },
+          "Default-Background": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Default-Border": {
+            "value": "{Brand-Primary.Default}",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Hover-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Hover-Background": {
+            "value": "{Brand-Primary.Default}",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Disabled-Text": {
+            "value": "#FFFFFF",
+            "type": "color"
+          },
+          "Disabled-Border": {
+            "value": "{Brand-Primary.Light-82}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "Form": {
+      "Selection": {
+        "value": "#1c449b",
+        "type": "color"
+      },
+      "Highlight": {
+        "value": "#f2f4f9",
+        "type": "color"
       }
     }
   },
