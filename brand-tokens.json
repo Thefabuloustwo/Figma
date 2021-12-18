@@ -90,7 +90,8 @@
       },
       "Light-40": {
         "value": "#ffe866",
-        "type": "color"
+        "type": "color",
+        "description": "\n"
       },
       "Light-50": {
         "value": "#ffec80",
@@ -104,8 +105,8 @@
         "value": "#fff8d1",
         "type": "color"
       },
-      "Light-92": {
-        "value": "#fff8d0",
+      "Light-94": {
+        "value": "#01bac60f",
         "type": "color"
       }
     },
@@ -116,7 +117,8 @@
       },
       "Dark-10": {
         "value": "#197cc3",
-        "type": "color"
+        "type": "color",
+        "description": "E5C200"
       },
       "Default": {
         "value": "#1c8ad9",
@@ -124,7 +126,8 @@
       },
       "Light-15": {
         "value": "#3e9bdf",
-        "type": "color"
+        "type": "color",
+        "description": "#909201"
       },
       "Light-30": {
         "value": "#61ade4",
@@ -146,233 +149,100 @@
         "value": "#d6eaf8",
         "type": "color"
       },
-      "Light-92": {
-        "value": "#f2f8fd",
+      "Light-94": {
+        "value": "#1e90ff0f",
         "type": "color"
       }
     },
     "Button": {
       "Primary": {
         "Default": {
-          "value": "$Brand-Primary.Default",
-          "type": "color"
+          "Default-Text": {
+            "value": "#333333",
+            "type": "color"
+          },
+          "Default-Background": {
+            "value": "{Brand-Primary.Default}",
+            "type": "color"
+          }
         },
         "Hover": {
-          "value": "$Brand-Primary.Dark-20",
-          "type": "color"
+          "Hover-Text": {
+            "value": "#333333",
+            "type": "color"
+          },
+          "Hover-Background": {
+            "value": "{Brand-Primary.Dark-20}",
+            "type": "color"
+          }
         },
-        "Default-Text": {
-          "value": "#333333",
-          "type": "color"
+        "Disabled": {
+          "Disabled-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Disabled-Background": {
+            "value": "{Brand-Primary.Light-82}",
+            "type": "color"
+          }
         }
       },
       "Secondary": {
         "Default": {
-          "value": "$Brand-Secondary.Default",
-          "type": "color",
-          "description": "Border, Background, Text"
+          "Default-Text": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color",
+            "description": "Border, Background, Text"
+          },
+          "Default-Background": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Default-Border": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Hover-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Hover-Background": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Disabled-Text": {
+            "value": "{Brand-Secondary.Light-82}",
+            "type": "color"
+          },
+          "Disabled-Border": {
+            "value": "{Brand-Secondary.Light-82}",
+            "type": "color"
+          }
         }
       }
     },
-    "fontFamilies": {
-      "webde-sans": {
-        "value": "web.de Sans",
-        "type": "fontFamilies"
+    "Label": {
+      "ViewType": {
+        "value": "{Brand-Secondary.Light-82}",
+        "type": "color"
+      },
+      "ViewType-Text": {
+        "value": "{Brand-Secondary.Default}",
+        "type": "color"
       }
     },
-    "Bold": {
-      "value": "Bold",
-      "type": "fontWeights"
-    },
-    "Regular": {
-      "value": "Regular",
-      "type": "fontWeights"
-    },
-    "UI": {
-      "Button-Text": {
-        "value": {
-          "fontFamily": "$fontFamilies.webde-sans",
-          "fontWeight": "{Bold}",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.2",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      }
-    },
-    "lineHeights": {
-      "0": {
-        "value": "44",
-        "type": "lineHeights"
+    "Form": {
+      "Selection": {
+        "value": "{Brand-Secondary.Default}",
+        "type": "color"
       },
-      "1": {
-        "value": "34",
-        "type": "lineHeights"
-      },
-      "2": {
-        "value": "26",
-        "type": "lineHeights"
-      },
-      "3": {
-        "value": "20",
-        "type": "lineHeights"
-      },
-      "4": {
-        "value": "AUTO",
-        "type": "lineHeights"
-      }
-    },
-    "fontWeights": {
-      "webde-sans-0": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "webde-sans-1": {
-        "value": "Regular",
-        "type": "fontWeights"
-      }
-    },
-    "fontSize": {
-      "0": {
-        "value": "14",
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": "18",
-        "type": "fontSizes"
-      },
-      "2": {
-        "value": "20",
-        "type": "fontSizes"
-      },
-      "3": {
-        "value": "30",
-        "type": "fontSizes"
-      },
-      "4": {
-        "value": "36",
-        "type": "fontSizes"
-      },
-      "5": {
-        "value": "40",
-        "type": "fontSizes"
-      }
-    },
-    "letterSpacing": {
-      "0": {
-        "value": "0",
-        "type": "letterSpacing"
-      },
-      "1": {
-        "value": "0%",
-        "type": "letterSpacing"
-      }
-    },
-    "paragraphSpacing": {
-      "0": {
-        "value": "0",
-        "type": "paragraphSpacing"
-      }
-    },
-    "Headline": {
-      "Headline XXL": {
-        "value": {
-          "fontFamily": "$fontFamilies.webde-sans",
-          "fontWeight": "$fontWeights.webde-sans-0",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.4",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      },
-      "Headline XL": {
-        "value": {
-          "fontFamily": "$fontFamilies.webde-sans",
-          "fontWeight": "$fontWeights.webde-sans-0",
-          "lineHeight": "$lineHeights.1",
-          "fontSize": "$fontSize.3",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      }
-    },
-    "Page": {
-      "Article Desktop": {
-        "value": {
-          "fontFamily": "$fontFamilies.webde-sans",
-          "fontWeight": "$fontWeights.webde-sans-1",
-          "lineHeight": "$lineHeights.2",
-          "fontSize": "$fontSize.1",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      }
-    },
-    "secondary text": {
-      "value": {
-        "fontFamily": "$fontFamilies.webde-sans",
-        "fontWeight": "$fontWeights.webde-sans-1",
-        "lineHeight": "$lineHeights.3",
-        "fontSize": "$fontSize.0",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
-      },
-      "type": "typography"
-    },
-    "Author": {
-      "value": {
-        "fontFamily": "$fontFamilies.webde-sans",
-        "fontWeight": "$fontWeights.webde-sans-1",
-        "lineHeight": "$lineHeights.3",
-        "fontSize": "$fontSize.0",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.underline"
-      },
-      "type": "typography"
-    },
-    "Interview Headline": {
-      "value": {
-        "fontFamily": "$fontFamilies.webde-sans",
-        "fontWeight": "$fontWeights.webde-sans-1",
-        "lineHeight": "$lineHeights.4",
-        "fontSize": "$fontSize.5",
-        "letterSpacing": "$letterSpacing.1",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
-      },
-      "type": "typography"
-    },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      },
-      "underline": {
-        "value": "underline",
-        "type": "textDecoration"
+      "Highlight": {
+        "value": "{Brand-Secondary.Light-82}",
+        "type": "color"
       }
     }
   },
