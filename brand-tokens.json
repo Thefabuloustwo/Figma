@@ -947,7 +947,7 @@
         },
         "Disabled": {
           "Disabled-Text": {
-            "value": "#FFF",
+            "value": "{Brand-Secondary.Light-82}",
             "type": "color"
           },
           "Disabled-Border": {
