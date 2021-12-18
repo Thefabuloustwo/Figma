@@ -337,21 +337,21 @@
     },
     "Form": {
       "Selection": {
-        "value": "#1c449b",
+        "value": "{Brand-Primary.Default}",
         "type": "color"
       },
       "Highlight": {
-        "value": "#d6dded",
+        "value": "{Brand-Primary.Light-82}",
         "type": "color"
       }
     },
     "Label": {
       "ViewType": {
-        "value": "#d6dded",
+        "value": "{Brand-Primary.Light-82}",
         "type": "color"
       },
       "ViewType-Text": {
-        "value": "#1c449b",
+        "value": "{Brand-Primary.Default}",
         "type": "color"
       }
     },
@@ -363,7 +363,7 @@
             "type": "color"
           },
           "Default-Background": {
-            "value": "#6e9804",
+            "value": "{Brand-Secondary.Default}",
             "type": "color"
           }
         },
@@ -373,7 +373,7 @@
             "type": "color"
           },
           "Hover-Background": {
-            "value": "#587a03",
+            "value": "{Brand-Secondary.Dark-20}",
             "type": "color"
           }
         },
@@ -383,7 +383,7 @@
             "type": "color"
           },
           "Disabled-Background": {
-            "value": "#e5ecd2",
+            "value": "{Brand-Secondary.Light-82}",
             "type": "color"
           }
         }
@@ -391,7 +391,7 @@
       "Secondary": {
         "Default": {
           "Default-Text": {
-            "value": "#1c449b",
+            "value": "{Brand-Primary.Default}",
             "type": "color",
             "description": "Border, Background, Text"
           },
@@ -400,7 +400,7 @@
             "type": "color"
           },
           "Default-Border": {
-            "value": "#1c449b",
+            "value": "{Brand-Primary.Default}",
             "type": "color"
           }
         },
@@ -410,7 +410,7 @@
             "type": "color"
           },
           "Hover-Background": {
-            "value": "#1c449b",
+            "value": "{Brand-Primary.Default}",
             "type": "color"
           }
         },
@@ -420,7 +420,7 @@
             "type": "color"
           },
           "Disabled-Border": {
-            "value": "#d6dded",
+            "value": "{Brand-Primary.Light-82}",
             "type": "color"
           }
         }
