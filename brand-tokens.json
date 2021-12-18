@@ -337,21 +337,21 @@
     },
     "Form": {
       "Selection": {
-        "value": "{Brand-Primary.Default}",
+        "value": "#1c449b",
         "type": "color"
       },
       "Highlight": {
-        "value": "{Brand-Primary.Light-82}",
+        "value": "#d6dded",
         "type": "color"
       }
     },
     "Label": {
       "ViewType": {
-        "value": "{Brand-Primary.Light-82}",
+        "value": "#d6dded",
         "type": "color"
       },
       "ViewType-Text": {
-        "value": "{Brand-Primary.Default}",
+        "value": "#1c449b",
         "type": "color"
       }
     },
@@ -416,7 +416,7 @@
         },
         "Disabled": {
           "Disabled-Text": {
-            "value": "#ffffff",
+            "value": "{Brand-Primary.Light-82}",
             "type": "color"
           },
           "Disabled-Border": {
