@@ -969,11 +969,11 @@
     },
     "Form": {
       "Selection": {
-        "value": "{Brand-Primary.Light-82}",
+        "value": "{Brand-Primary.Default}",
         "type": "color"
       },
       "Highlight": {
-        "value": "{Brand-Primary.Default}",
+        "value": "{Brand-Primary.Light-70}",
         "type": "color"
       }
     }
