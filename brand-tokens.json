@@ -889,59 +889,71 @@
     },
     "Button": {
       "Primary": {
-        "Default-Text": {
-          "value": "#ffffff",
-          "type": "color"
+        "Default": {
+          "Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Background": {
+            "value": "{Brand-Primary.Default}",
+            "type": "color"
+          }
         },
-        "Default-Background": {
-          "value": "{Brand-Primary.Default}",
-          "type": "color"
+        "Hover": {
+          "Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Background": {
+            "value": "{Brand-Primary.Dark-20}",
+            "type": "color"
+          }
         },
-        "Hover-Text": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "Hover-Background": {
-          "value": "{Brand-Primary.Dark-20}",
-          "type": "color"
-        },
-        "Disabled-Text": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "Disabled-Background": {
-          "value": "{Brand-Primary.Light-82}",
-          "type": "color"
+        "Disabled": {
+          "Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Background": {
+            "value": "{Brand-Primary.Light-82}",
+            "type": "color"
+          }
         }
       },
       "Secondary": {
-        "Default-Text": {
-          "value": "{Brand-Secondary.Default}",
-          "type": "color"
+        "Default": {
+          "Text": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          },
+          "Background": {
+            "value": "#ffffff",
+            "type": "color"
+          }
         },
-        "Default-Border": {
-          "value": "{Brand-Secondary.Default}",
-          "type": "color"
+        "Hover": {
+          "Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Background": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          }
         },
-        "Default-Background": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "Hover-Text": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "Hover-Background": {
-          "value": "{Brand-Secondary.Default}",
-          "type": "color"
-        },
-        "Disabled-Text": {
-          "value": "{Brand-Secondary.Light-82}",
-          "type": "color"
-        },
-        "Disabled-Border": {
-          "value": "{Brand-Secondary.Light-82}",
-          "type": "color"
+        "Disabled": {
+          "Text": {
+            "value": "{Brand-Secondary.Light-82}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Brand-Secondary.Light-82}",
+            "type": "color"
+          }
         }
       }
     },
