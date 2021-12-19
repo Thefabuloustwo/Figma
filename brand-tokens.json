@@ -341,7 +341,7 @@
         "type": "color"
       },
       "Highlight": {
-        "value": "#d6dded",
+        "value": "{Brand-Primary.Light-94}",
         "type": "color"
       }
     },
