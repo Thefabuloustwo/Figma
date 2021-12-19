@@ -178,7 +178,7 @@
         },
         "Disabled": {
           "Disabled-Text": {
-            "value": "#ffffff",
+            "value": "#DADADA",
             "type": "color"
           },
           "Disabled-Background": {
@@ -241,7 +241,7 @@
         "type": "color"
       },
       "Highlight": {
-        "value": "{Brand-Secondary.Light-94}",
+        "value": "{Brand-Secondary.Light-82}",
         "type": "color"
       }
     }
