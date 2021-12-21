@@ -501,10 +501,6 @@
           }
         }
       }
-    },
-    "Empty": {
-      "value": "{Brand-Global-System.White}",
-      "type": "color"
     }
   },
   "UIKIT": {
