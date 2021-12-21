@@ -154,6 +154,26 @@
         "type": "color"
       }
     },
+    "Label": {
+      "ViewType": {
+        "value": "{Brand-Secondary.Light-82}",
+        "type": "color"
+      },
+      "ViewType-Text": {
+        "value": "{Brand-Secondary.Default}",
+        "type": "color"
+      }
+    },
+    "Form": {
+      "Selection": {
+        "value": "{Brand-Secondary.Default}",
+        "type": "color"
+      },
+      "Highlight": {
+        "value": "{Brand-Secondary.Light-82}",
+        "type": "color"
+      }
+    },
     "Button": {
       "Primary": {
         "Default": {
@@ -261,26 +281,6 @@
             "description": ""
           }
         }
-      }
-    },
-    "Label": {
-      "ViewType": {
-        "value": "{Brand-Secondary.Light-82}",
-        "type": "color"
-      },
-      "ViewType-Text": {
-        "value": "{Brand-Secondary.Default}",
-        "type": "color"
-      }
-    },
-    "Form": {
-      "Selection": {
-        "value": "{Brand-Secondary.Default}",
-        "type": "color"
-      },
-      "Highlight": {
-        "value": "{Brand-Secondary.Light-82}",
-        "type": "color"
       }
     }
   },
