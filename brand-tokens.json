@@ -699,14 +699,22 @@
         }
       }
     },
-    "Label": {
-      "ViewType": {
-        "value": "{Brand-Primary.Light-82}",
-        "type": "color"
+    "Teaser": {
+      "Label": {
+        "ViewType": {
+          "value": "{Brand-Primary.Light-82}",
+          "type": "color"
+        },
+        "ViewType-Text": {
+          "value": "{Brand-Primary.Default}",
+          "type": "color"
+        }
       },
-      "ViewType-Text": {
-        "value": "{Brand-Primary.Default}",
-        "type": "color"
+      "Meta": {
+        "Footer": {
+          "value": "{Brand-Global-Black.Light-50}",
+          "type": "color"
+        }
       }
     },
     "Form": {
