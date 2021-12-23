@@ -373,23 +373,31 @@
         "type": "color"
       }
     },
+    "Teaser": {
+      "Label": {
+        "ViewType": {
+          "value": "{Brand-Primary.Light-82}",
+          "type": "color"
+        },
+        "ViewType-Text": {
+          "value": "{Brand-Primary.Default}",
+          "type": "color"
+        }
+      },
+      "Meta": {
+        "Footer": {
+          "value": "{Brand-Global-Black.Light-50}",
+          "type": "color"
+        }
+      }
+    },
     "Form": {
       "Selection": {
-        "value": "#1c449b",
+        "value": "{Brand-Primary.Default}",
         "type": "color"
       },
       "Highlight": {
         "value": "{Brand-Primary.Light-94}",
-        "type": "color"
-      }
-    },
-    "Label": {
-      "ViewType": {
-        "value": "#d6dded",
-        "type": "color"
-      },
-      "ViewType-Text": {
-        "value": "#1c449b",
         "type": "color"
       }
     },
