@@ -441,6 +441,16 @@
             "type": "color"
           }
         },
+        "Click": {
+          "Click-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Click-Background": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          }
+        },
         "Hover": {
           "Hover-Text": {
             "value": "#ffffff",
@@ -484,6 +494,16 @@
             "type": "color"
           },
           "Hover-Background": {
+            "value": "{Brand-Primary.Dark-20}",
+            "type": "color"
+          }
+        },
+        "Click": {
+          "Click-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Click-Background": {
             "value": "{Brand-Primary.Default}",
             "type": "color"
           }
