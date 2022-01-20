@@ -247,7 +247,7 @@
             "type": "color"
           },
           "Hover-Background": {
-            "value": "{Brand-Secondary.Dark-20}",
+            "value": "{Brand-Secondary.Default}",
             "type": "color"
           }
         },
@@ -649,6 +649,16 @@
             "type": "color"
           }
         },
+        "Click": {
+          "Click-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Click-Background": {
+            "value": "{Brand-Primary.Default}",
+            "type": "color"
+          }
+        },
         "Disabled": {
           "Disabled-Text": {
             "value": "#ffffff",
@@ -681,6 +691,16 @@
             "type": "color"
           },
           "Hover-Background": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          }
+        },
+        "Click": {
+          "Click-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Click-Background": {
             "value": "{Brand-Secondary.Default}",
             "type": "color"
           }
