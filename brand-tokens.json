@@ -761,6 +761,18 @@
             "description": ""
           }
         },
+        "Click": {
+          "Click-Text": {
+            "value": "{Brand-Global-System.White}",
+            "type": "color",
+            "description": ""
+          },
+          "Click-Background": {
+            "value": "{Brand-Global-Black.Light-50}",
+            "type": "color",
+            "description": ""
+          }
+        },
         "Disabled": {
           "Default-Text": {
             "value": "{Brand-Global-Black.Light-82}",
