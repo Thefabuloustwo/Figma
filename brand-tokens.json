@@ -194,6 +194,16 @@
             "type": "color"
           }
         },
+        "Click": {
+          "Click-Text": {
+            "value": "#333333",
+            "type": "color"
+          },
+          "Click-Background": {
+            "value": "{Brand-Primary.Default}",
+            "type": "color"
+          }
+        },
         "Hover": {
           "Hover-Text": {
             "value": "#333333",
