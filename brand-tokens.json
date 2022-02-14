@@ -1,16 +1,20 @@
 {
   "Global": {
     "Brand-Global-Black": {
-      "Dark 20": {
-        "value": "#292929",
-        "type": "color"
-      },
       "Dark-10": {
         "value": "#2e2e2e",
         "type": "color"
       },
+      "Dark-20": {
+        "value": "#292929",
+        "type": "color"
+      },
       "Default": {
         "value": "#333333",
+        "type": "color"
+      },
+      "Opak": {
+        "value": "rgba($Brand-Global-Black.Default, 0.75)",
         "type": "color"
       },
       "Light-15": {
