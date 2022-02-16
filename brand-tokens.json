@@ -314,6 +314,24 @@
           }
         }
       }
+    },
+    "Header": {
+      "Background": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Accent": {
+        "value": "#ffd800",
+        "type": "color"
+      },
+      "Button": {
+        "value": "#ffd800",
+        "type": "color"
+      },
+      "Button-Icon": {
+        "value": "#333333",
+        "type": "color"
+      }
     }
   },
   "GMX": {
