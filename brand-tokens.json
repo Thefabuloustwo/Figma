@@ -433,6 +433,16 @@
         "type": "color"
       }
     },
+    "Header": {
+      "Background": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      },
+      "Accent": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      }
+    },
     "Button": {
       "Primary": {
         "Default": {
