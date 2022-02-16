@@ -321,15 +321,15 @@
         "type": "color"
       },
       "Accent": {
-        "value": "{Brand-Primary.Default}",
+        "value": "#ffd800",
         "type": "color"
       },
       "Search-Button": {
-        "value": "{Brand-Primary.Default}",
+        "value": "#ffd800",
         "type": "color"
       },
       "Search-Button-Icon": {
-        "value": "{Brand-Global-Black.Default}",
+        "value": "#333333",
         "type": "color"
       }
     }
