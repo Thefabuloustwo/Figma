@@ -314,6 +314,24 @@
           }
         }
       }
+    },
+    "Header": {
+      "Background": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Accent": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      },
+      "Button": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      },
+      "Button-Icon": {
+        "value": "{Brand-Global-System.White}",
+        "type": "color"
+      }
     }
   },
   "GMX": {
@@ -440,14 +458,6 @@
       },
       "Accent": {
         "value": "{Brand-Primary.Default}",
-        "type": "color"
-      },
-      "Search-Button": {
-        "value": "{Brand-Secondary.Default}",
-        "type": "color"
-      },
-      "Search-Button-Icon": {
-        "value": "{Brand-Global-System.White}",
         "type": "color"
       }
     },
