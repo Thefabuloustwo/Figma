@@ -321,15 +321,15 @@
         "type": "color"
       },
       "Accent": {
-        "value": "#ffd800",
+        "value": "{Brand-Primary.Default}",
         "type": "color"
       },
       "Search-Button": {
-        "value": "#ffd800",
+        "value": "{Brand-Primary.Default}",
         "type": "color"
       },
       "Search-Button-Icon": {
-        "value": "#333333",
+        "value": "{Brand-Global-Black.Default}",
         "type": "color"
       }
     }
@@ -864,11 +864,11 @@
         "value": "{Brand-Primary.Dark-20}",
         "type": "color"
       },
-      "Button": {
+      "Search-Button": {
         "value": "{Brand-Primary.Dark-20}",
         "type": "color"
       },
-      "Button-Icon": {
+      "Search-Button-Icon": {
         "value": "{Brand-Global-System.White}",
         "type": "color"
       }
