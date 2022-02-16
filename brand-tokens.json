@@ -520,7 +520,7 @@
             "description": "Border, Background, Text"
           },
           "Default-Background": {
-            "value": "#ffffff",
+            "value": "rgba(255,255,255,0)",
             "type": "color"
           },
           "Default-Border": {
