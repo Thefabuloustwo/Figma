@@ -441,6 +441,14 @@
       "Accent": {
         "value": "{Brand-Primary.Default}",
         "type": "color"
+      },
+      "Search-Button": {
+        "value": "{Brand-Secondary.Default}",
+        "type": "color"
+      },
+      "Search-Button-Icon": {
+        "value": "{Brand-Global-System.White}",
+        "type": "color"
       }
     },
     "Button": {
