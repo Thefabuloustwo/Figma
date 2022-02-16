@@ -186,16 +186,6 @@
         "type": "color"
       }
     },
-    "Header": {
-      "Background": {
-        "value": "{Brand-Global-System.White}",
-        "type": "color"
-      },
-      "Accent": {
-        "value": "{Brand-Primary.Default}",
-        "type": "color"
-      }
-    },
     "Button": {
       "Primary": {
         "Default": {
@@ -440,6 +430,16 @@
       },
       "Highlight": {
         "value": "{Brand-Primary.Light-94}",
+        "type": "color"
+      }
+    },
+    "Header": {
+      "Background": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      },
+      "Accent": {
+        "value": "{Brand-Primary.Default}",
         "type": "color"
       }
     },
@@ -834,7 +834,7 @@
         "value": "{Brand-Primary.Default}",
         "type": "color"
       },
-      "Stripe": {
+      "Accent": {
         "value": "{Brand-Primary.Dark-20}",
         "type": "color"
       }
