@@ -818,6 +818,16 @@
         "value": "{Brand-Primary.Light-82}",
         "type": "color"
       }
+    },
+    "Header": {
+      "Background": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      },
+      "Stripe": {
+        "value": "{Brand-Primary.Dark-20}",
+        "type": "color"
+      }
     }
   }
 }
