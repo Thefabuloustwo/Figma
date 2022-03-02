@@ -645,16 +645,16 @@
     },
     "Brand-Secondary": {
       "Dark-20": {
-        "value": "#0355a6",
+        "value": "#D714D7",
         "type": "color"
       },
       "Dark-10": {
-        "value": "#006dd8",
+        "value": "#DA28DA",
         "type": "color",
         "description": "E5C200"
       },
       "Default": {
-        "value": "#1e90ff",
+        "value": "#DE3CDE",
         "type": "color"
       },
       "Light-15": {
