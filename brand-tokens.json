@@ -302,12 +302,12 @@
           }
         },
         "Click": {
-          "Click-Text": {
+          "Default-Text": {
             "value": "{Brand-Global-System.White}",
             "type": "color",
             "description": ""
           },
-          "Click-Background": {
+          "Default-Background": {
             "value": "{Brand-Global-Black.Light-50}",
             "type": "color",
             "description": ""
