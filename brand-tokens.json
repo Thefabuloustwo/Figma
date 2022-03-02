@@ -602,7 +602,7 @@
             "type": "color",
             "description": ""
           },
-          "Click-Background": {
+          "Default-Background": {
             "value": "{Brand-Global-Black.Light-30}",
             "type": "color",
             "description": ""
