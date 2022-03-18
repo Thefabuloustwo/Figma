@@ -920,6 +920,16 @@
     "Space XL": {
       "value": "30",
       "type": "spacing"
+    },
+    "Small": {
+      "Default": {
+        "value": "4",
+        "type": "other"
+      },
+      "type": {
+        "value": "borderRadius",
+        "type": "other"
+      }
     }
   }
 }
