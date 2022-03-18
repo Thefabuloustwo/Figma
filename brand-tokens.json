@@ -896,6 +896,30 @@
         "value": "{Brand-Global-System.White}",
         "type": "color"
       }
+    },
+    "Space XXS": {
+      "value": "2",
+      "type": "spacing"
+    },
+    "Space XS": {
+      "value": "5",
+      "type": "spacing"
+    },
+    "Space S": {
+      "value": "10",
+      "type": "spacing"
+    },
+    "Space M": {
+      "value": "15",
+      "type": "spacing"
+    },
+    "Space L": {
+      "value": "20",
+      "type": "spacing"
+    },
+    "Space XL": {
+      "value": "30",
+      "type": "spacing"
     }
   }
 }
