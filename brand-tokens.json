@@ -922,14 +922,12 @@
       "type": "spacing"
     },
     "Small": {
-      "Default": {
-        "value": "4",
-        "type": "other"
-      },
-      "type": {
-        "value": "borderRadius",
-        "type": "other"
-      }
+      "value": "2",
+      "type": "borderRadius"
+    },
+    "Default": {
+      "value": "4",
+      "type": "borderRadius"
     }
   }
 }
