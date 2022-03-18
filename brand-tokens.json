@@ -624,6 +624,38 @@
     }
   },
   "UIKIT": {
+    "5": {
+      "value": "5",
+      "type": "spacing"
+    },
+    "10": {
+      "value": "10",
+      "type": "spacing"
+    },
+    "15": {
+      "value": "15",
+      "type": "spacing"
+    },
+    "20": {
+      "value": "20",
+      "type": "spacing"
+    },
+    "25": {
+      "value": "25",
+      "type": "spacing"
+    },
+    "30": {
+      "value": "30",
+      "type": "spacing"
+    },
+    "35": {
+      "value": "35",
+      "type": "spacing"
+    },
+    "40": {
+      "value": "40",
+      "type": "spacing"
+    },
     "Brand-Primary": {
       "Dark-20": {
         "value": "#015d63",
@@ -896,30 +928,6 @@
         "value": "{Brand-Global-System.White}",
         "type": "color"
       }
-    },
-    "Space XXS": {
-      "value": "2",
-      "type": "spacing"
-    },
-    "Space XS": {
-      "value": "5",
-      "type": "spacing"
-    },
-    "Space S": {
-      "value": "10",
-      "type": "spacing"
-    },
-    "Space M": {
-      "value": "15",
-      "type": "spacing"
-    },
-    "Space L": {
-      "value": "20",
-      "type": "spacing"
-    },
-    "Space XL": {
-      "value": "30",
-      "type": "spacing"
     },
     "Small": {
       "value": "2",
