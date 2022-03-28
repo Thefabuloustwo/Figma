@@ -1,5 +1,29 @@
 {
   "Global": {
+    "1": {
+      "value": "5",
+      "type": "spacing"
+    },
+    "2": {
+      "value": "10",
+      "type": "spacing"
+    },
+    "3": {
+      "value": "15",
+      "type": "spacing"
+    },
+    "4": {
+      "value": "20",
+      "type": "spacing"
+    },
+    "5": {
+      "value": "25",
+      "type": "spacing"
+    },
+    "6": {
+      "value": "30",
+      "type": "spacing"
+    },
     "Brand-Global-Black": {
       "Dark-10": {
         "value": "#2e2e2e",
