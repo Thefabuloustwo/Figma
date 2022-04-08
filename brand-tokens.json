@@ -297,6 +297,10 @@
           "Disabled-Border": {
             "value": "{Brand-Secondary.Light-82}",
             "type": "color"
+          },
+          "Disabled-Background": {
+            "value": "#FFFFFF",
+            "type": "color"
           }
         }
       },
@@ -615,6 +619,10 @@
           },
           "Disabled-Border": {
             "value": "{Brand-Primary.Light-82}",
+            "type": "color"
+          },
+          "Disabled-Background": {
+            "value": "#FFFFFF",
             "type": "color"
           }
         }
