@@ -214,7 +214,7 @@
         "type": "color"
       },
       "Light-94": {
-        "value": "#1e90ff0f",
+        "value": "#F2F8FD",
         "type": "color"
       }
     },
@@ -1057,45 +1057,13 @@
         "type": "color"
       }
     },
-    "UI-KIT": {
-      "value": "roboto_mono",
-      "type": "fontFamilies"
+    "Small": {
+      "value": "2",
+      "type": "borderRadius"
     },
-    "XXS": {
-      "value": "8",
-      "type": "fontSizes"
-    },
-    "XS": {
-      "value": "12",
-      "type": "fontSizes"
-    },
-    "S": {
-      "value": "16",
-      "type": "fontSizes"
-    },
-    "M": {
-      "value": "20",
-      "type": "fontSizes"
-    },
-    "L": {
-      "value": "24",
-      "type": "fontSizes"
-    },
-    "XL": {
-      "value": "32",
-      "type": "fontSizes"
-    },
-    "XXL": {
-      "value": "40",
-      "type": "fontSizes"
-    },
-    "Regular": {
-      "value": "400",
-      "type": "fontWeights"
-    },
-    "Bold": {
-      "value": "700",
-      "type": "fontWeights"
+    "Default": {
+      "value": "4",
+      "type": "borderRadius"
     }
   }
 }
