@@ -408,6 +408,46 @@
         "value": "{Brand-Global-Black.Default}",
         "type": "color"
       }
+    },
+    "WEBDE": {
+      "value": "webdesans",
+      "type": "fontFamilies"
+    },
+    "XXS": {
+      "value": "8",
+      "type": "fontSizes"
+    },
+    "XS": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "S": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "M": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "L": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "XL": {
+      "value": "32",
+      "type": "fontSizes"
+    },
+    "XXL": {
+      "value": "40",
+      "type": "fontSizes"
+    },
+    "Regular": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "Bold": {
+      "value": "700",
+      "type": "fontWeights"
     }
   },
   "GMX": {
@@ -713,46 +753,6 @@
           }
         }
       }
-    },
-    "GMX": {
-      "value": "roboto",
-      "type": "fontFamilies"
-    },
-    "XXS": {
-      "value": "8",
-      "type": "fontSizes"
-    },
-    "XS": {
-      "value": "12",
-      "type": "fontSizes"
-    },
-    "S": {
-      "value": "16",
-      "type": "fontSizes"
-    },
-    "M": {
-      "value": "20",
-      "type": "fontSizes"
-    },
-    "L": {
-      "value": "24",
-      "type": "fontSizes"
-    },
-    "XL": {
-      "value": "32",
-      "type": "fontSizes"
-    },
-    "XXL": {
-      "value": "40",
-      "type": "fontSizes"
-    },
-    "Regular": {
-      "value": "400",
-      "type": "fontWeights"
-    },
-    "Bold": {
-      "value": "700",
-      "type": "fontWeights"
     }
   },
   "UIKIT": {
@@ -1056,6 +1056,46 @@
         "value": "{Brand-Global-System.White}",
         "type": "color"
       }
+    },
+    "UI-KIT": {
+      "value": "roboto_mono",
+      "type": "fontFamilies"
+    },
+    "XXS": {
+      "value": "8",
+      "type": "fontSizes"
+    },
+    "XS": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "S": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "M": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "L": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "XL": {
+      "value": "32",
+      "type": "fontSizes"
+    },
+    "XXL": {
+      "value": "40",
+      "type": "fontSizes"
+    },
+    "Regular": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "Bold": {
+      "value": "700",
+      "type": "fontWeights"
     }
   }
 }
