@@ -103,6 +103,46 @@
         "value": "{Brand-Global-System.Error}",
         "type": "color"
       }
+    },
+    "UIKIT": {
+      "value": "roboto-mono",
+      "type": "font-family"
+    },
+    "XXS": {
+      "value": "8",
+      "type": "font-size"
+    },
+    "XS": {
+      "value": "12",
+      "type": "font-size"
+    },
+    "S": {
+      "value": "16",
+      "type": "font-size"
+    },
+    "M": {
+      "value": "20",
+      "type": "font-size"
+    },
+    "L": {
+      "value": "24",
+      "type": "font-size"
+    },
+    "XL": {
+      "value": "32",
+      "type": "font-size"
+    },
+    "XXL": {
+      "value": "40",
+      "type": "font-size"
+    },
+    "Regular": {
+      "value": "400",
+      "type": "font-weight"
+    },
+    "Bold": {
+      "value": "700",
+      "type": "font-weight"
     }
   },
   "WEBDE": {
