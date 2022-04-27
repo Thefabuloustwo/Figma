@@ -40,7 +40,7 @@
     },
     "Brand-Global-Specials": {
       "Opak": {
-        "value": "#333333bf",
+        "value": "rgba($Brand-Global-Black.Default, 0.75)",
         "type": "color"
       }
     },
