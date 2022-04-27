@@ -92,7 +92,7 @@
     },
     "Brand-Global-Labels": {
       "DocType": {
-        "value": "{Brand-Global-Dark.Light-15}",
+        "value": "{Brand-Global-Black.Light-15}",
         "type": "color"
       },
       "Partner": {
