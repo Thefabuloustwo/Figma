@@ -13,10 +13,6 @@
         "value": "#333333",
         "type": "color"
       },
-      "Opak": {
-        "value": "rgba($Brand-Global-Black.Default, 0.75)",
-        "type": "color"
-      },
       "Light-15": {
         "value": "#515151",
         "type": "color"
@@ -42,21 +38,43 @@
         "type": "color"
       }
     },
+    "Brand-Global-Specials": {
+      "Opak": {
+        "value": "#333333bf",
+        "type": "color"
+      }
+    },
     "Brand-Global-System": {
       "Error": {
         "value": "#d40000",
+        "type": "color"
+      },
+      "Error-Light": {
+        "value": "rgba($Brand-Global-System.Error, 0.25)",
         "type": "color"
       },
       "Success": {
         "value": "#5cb82a",
         "type": "color"
       },
+      "Success-Light": {
+        "value": "rgba($Brand-Global-System.Success, 0.25)",
+        "type": "color"
+      },
       "Warning": {
         "value": "#f0bc00",
         "type": "color"
       },
+      "Warning-Light": {
+        "value": "rgba($Brand-Global-System.Warning, 0.25)",
+        "type": "color"
+      },
       "Info": {
         "value": "#1c8ad9",
+        "type": "color"
+      },
+      "Info-Light": {
+        "value": "rgba($Brand-Global-System.Info, 0.25)",
         "type": "color"
       },
       "Hyperlink": {
@@ -65,6 +83,20 @@
       },
       "White": {
         "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "Brand-Global-Labels": {
+      "DocType": {
+        "value": "{Brand-Global-Dark.Light-15}",
+        "type": "color"
+      },
+      "Partner": {
+        "value": "{Brand-Global-Black.Light-82}",
+        "type": "color"
+      },
+      "Breaking News": {
+        "value": "{Brand-Global-System.Error}",
         "type": "color"
       }
     }
