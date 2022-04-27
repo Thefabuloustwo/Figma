@@ -1016,14 +1016,6 @@
         "value": "{Brand-Global-System.White}",
         "type": "color"
       }
-    },
-    "Small": {
-      "value": "2",
-      "type": "borderRadius"
-    },
-    "Default": {
-      "value": "4",
-      "type": "borderRadius"
     }
   }
 }
