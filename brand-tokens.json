@@ -21,6 +21,10 @@
         "value": "#717171",
         "type": "color"
       },
+      "Light-40": {
+        "value": "#858585",
+        "type": "color"
+      },
       "Light-50": {
         "value": "#999999",
         "type": "color"
