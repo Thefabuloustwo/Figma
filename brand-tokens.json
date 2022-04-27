@@ -411,43 +411,43 @@
     },
     "WEBDE": {
       "value": "webdesans",
-      "type": "fontFamilies"
+      "type": "font-family"
     },
     "XXS": {
       "value": "8",
-      "type": "fontSizes"
+      "type": "font-size"
     },
     "XS": {
       "value": "12",
-      "type": "fontSizes"
+      "type": "font-size"
     },
     "S": {
       "value": "16",
-      "type": "fontSizes"
+      "type": "font-size"
     },
     "M": {
       "value": "20",
-      "type": "fontSizes"
+      "type": "font-size"
     },
     "L": {
       "value": "24",
-      "type": "fontSizes"
+      "type": "font-size"
     },
     "XL": {
       "value": "32",
-      "type": "fontSizes"
+      "type": "font-size"
     },
     "XXL": {
       "value": "40",
-      "type": "fontSizes"
+      "type": "font-size"
     },
     "Regular": {
       "value": "400",
-      "type": "fontWeights"
+      "type": "font-weight"
     },
     "Bold": {
       "value": "700",
-      "type": "fontWeights"
+      "type": "font-weight"
     }
   },
   "GMX": {
