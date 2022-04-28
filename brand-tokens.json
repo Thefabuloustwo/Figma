@@ -103,46 +103,6 @@
         "value": "{Brand-Global-System.Error}",
         "type": "color"
       }
-    },
-    "UIKIT": {
-      "value": "roboto-mono",
-      "type": "font-family"
-    },
-    "XXS": {
-      "value": "8",
-      "type": "font-size"
-    },
-    "XS": {
-      "value": "12",
-      "type": "font-size"
-    },
-    "S": {
-      "value": "16",
-      "type": "font-size"
-    },
-    "M": {
-      "value": "20",
-      "type": "font-size"
-    },
-    "L": {
-      "value": "24",
-      "type": "font-size"
-    },
-    "XL": {
-      "value": "32",
-      "type": "font-size"
-    },
-    "XXL": {
-      "value": "40",
-      "type": "font-size"
-    },
-    "Regular": {
-      "value": "400",
-      "type": "font-weight"
-    },
-    "Bold": {
-      "value": "700",
-      "type": "font-weight"
     }
   },
   "WEBDE": {
@@ -451,43 +411,43 @@
     },
     "WEBDE": {
       "value": "webdesans",
-      "type": "font-family"
+      "type": "fontFamilies"
     },
     "XXS": {
       "value": "8",
-      "type": "font-size"
+      "type": "fontSizes"
     },
     "XS": {
       "value": "12",
-      "type": "font-size"
+      "type": "fontSizes"
     },
     "S": {
       "value": "16",
-      "type": "font-size"
+      "type": "fontSizes"
     },
     "M": {
       "value": "20",
-      "type": "font-size"
+      "type": "fontSizes"
     },
     "L": {
       "value": "24",
-      "type": "font-size"
+      "type": "fontSizes"
     },
     "XL": {
       "value": "32",
-      "type": "font-size"
+      "type": "fontSizes"
     },
     "XXL": {
       "value": "40",
-      "type": "font-size"
+      "type": "fontSizes"
     },
     "Regular": {
       "value": "400",
-      "type": "font-weight"
+      "type": "fontWeights"
     },
     "Bold": {
       "value": "700",
-      "type": "font-weight"
+      "type": "fontWeights"
     }
   },
   "GMX": {
@@ -792,7 +752,147 @@
             "description": ""
           }
         }
+      },
+      "Media": {
+        "Default": {
+          "Default-Text": {
+            "value": "{Brand-Global-System.White}",
+            "type": "color",
+            "description": ""
+          },
+          "Default-Border": {
+            "value": "{Brand-Global-System.White}",
+            "type": "color",
+            "description": ""
+          }
+        },
+        "Hover": {
+          "Default-Text": {
+            "value": "{Brand-Global-Black.Light-50}",
+            "type": "color",
+            "description": ""
+          },
+          "Hover-Background": {
+            "value": "{Brand-Global-System.White}",
+            "type": "color",
+            "description": ""
+          }
+        },
+        "Click": {
+          "Default-Text": {
+            "value": "{Brand-Global-Black.Default}",
+            "type": "color",
+            "description": ""
+          },
+          "Default-Background": {
+            "value": "{Brand-Global-System.White}",
+            "type": "color",
+            "description": ""
+          }
+        },
+        "Disabled": {
+          "Default-Text": {
+            "value": "{Brand-Global-Black.Light-82}",
+            "type": "color",
+            "description": ""
+          },
+          "Default-Border": {
+            "value": "{Brand-Global-Black.Light-82}",
+            "type": "color",
+            "description": ""
+          }
+        }
+      },
+      "Consent": {
+        "Default": {
+          "Default-Text": {
+            "value": "{Brand-Global-Black.Light-15}",
+            "type": "color",
+            "description": ""
+          },
+          "Default-Background": {
+            "value": "{Brand-Global-System.White}",
+            "type": "color",
+            "description": ""
+          }
+        },
+        "Hover": {
+          "Default-Text": {
+            "value": "{Brand-Global-System.White}",
+            "type": "color",
+            "description": ""
+          },
+          "Hover-Background": {
+            "value": "{Brand-Global-Black.Light-30}",
+            "type": "color",
+            "description": ""
+          }
+        },
+        "Click": {
+          "Default-Text": {
+            "value": "{Brand-Global-System.White}",
+            "type": "color",
+            "description": ""
+          },
+          "Default-Background": {
+            "value": "{Brand-Global-Black.Light-50}",
+            "type": "color",
+            "description": ""
+          }
+        },
+        "Disabled": {
+          "Default-Text": {
+            "value": "{Brand-Global-Black.Light-82}",
+            "type": "color",
+            "description": ""
+          },
+          "Default-Border": {
+            "value": "{Brand-Global-Black.Light-82}",
+            "type": "color",
+            "description": ""
+          }
+        }
       }
+    },
+    "GMX": {
+      "value": "roboto",
+      "type": "font-family"
+    },
+    "XXS": {
+      "value": "8",
+      "type": "font-size"
+    },
+    "XS": {
+      "value": "12",
+      "type": "font-size"
+    },
+    "S": {
+      "value": "16",
+      "type": "font-size"
+    },
+    "M": {
+      "value": "20",
+      "type": "font-size"
+    },
+    "L": {
+      "value": "24",
+      "type": "font-size"
+    },
+    "XL": {
+      "value": "32",
+      "type": "font-size"
+    },
+    "XXL": {
+      "value": "40",
+      "type": "font-size"
+    },
+    "Regular": {
+      "value": "400",
+      "type": "font-weight"
+    },
+    "Bold": {
+      "value": "700",
+      "type": "font-weight"
     }
   },
   "UIKIT": {
@@ -1009,106 +1109,6 @@
           },
           "Default-Border": {
             "value": "{Brand-Global-Black.Light-50}",
-            "type": "color",
-            "description": ""
-          }
-        },
-        "Hover": {
-          "Default-Text": {
-            "value": "{Brand-Global-System.White}",
-            "type": "color",
-            "description": ""
-          },
-          "Hover-Background": {
-            "value": "{Brand-Global-Black.Light-30}",
-            "type": "color",
-            "description": ""
-          }
-        },
-        "Click": {
-          "Default-Text": {
-            "value": "{Brand-Global-System.White}",
-            "type": "color",
-            "description": ""
-          },
-          "Default-Background": {
-            "value": "{Brand-Global-Black.Light-50}",
-            "type": "color",
-            "description": ""
-          }
-        },
-        "Disabled": {
-          "Default-Text": {
-            "value": "{Brand-Global-Black.Light-82}",
-            "type": "color",
-            "description": ""
-          },
-          "Default-Border": {
-            "value": "{Brand-Global-Black.Light-82}",
-            "type": "color",
-            "description": ""
-          }
-        }
-      },
-      "Media": {
-        "Default": {
-          "Default-Text": {
-            "value": "{Brand-Global-System.White}",
-            "type": "color",
-            "description": ""
-          },
-          "Default-Border": {
-            "value": "{Brand-Global-System.White}",
-            "type": "color",
-            "description": ""
-          }
-        },
-        "Hover": {
-          "Default-Text": {
-            "value": "{Brand-Global-Black.Light-50}",
-            "type": "color",
-            "description": ""
-          },
-          "Hover-Background": {
-            "value": "{Brand-Global-System.White}",
-            "type": "color",
-            "description": ""
-          }
-        },
-        "Click": {
-          "Default-Text": {
-            "value": "{Brand-Global-Black.Default}",
-            "type": "color",
-            "description": ""
-          },
-          "Default-Background": {
-            "value": "{Brand-Global-System.White}",
-            "type": "color",
-            "description": ""
-          }
-        },
-        "Disabled": {
-          "Default-Text": {
-            "value": "{Brand-Global-Black.Light-82}",
-            "type": "color",
-            "description": ""
-          },
-          "Default-Border": {
-            "value": "{Brand-Global-Black.Light-82}",
-            "type": "color",
-            "description": ""
-          }
-        }
-      },
-      "Consent": {
-        "Default": {
-          "Default-Text": {
-            "value": "{Brand-Global-Black.Light-15}",
-            "type": "color",
-            "description": ""
-          },
-          "Default-Background": {
-            "value": "{Brand-Global-System.White}",
             "type": "color",
             "description": ""
           }
