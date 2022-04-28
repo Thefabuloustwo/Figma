@@ -1101,56 +1101,6 @@
             "type": "color"
           }
         }
-      },
-      "Tertiary": {
-        "Default": {
-          "Default-Text": {
-            "value": "{Brand-Global-Black.Light-50}",
-            "type": "color",
-            "description": ""
-          },
-          "Default-Border": {
-            "value": "{Brand-Global-Black.Light-50}",
-            "type": "color",
-            "description": ""
-          }
-        },
-        "Hover": {
-          "Default-Text": {
-            "value": "{Brand-Global-System.White}",
-            "type": "color",
-            "description": ""
-          },
-          "Hover-Background": {
-            "value": "{Brand-Global-Black.Light-30}",
-            "type": "color",
-            "description": ""
-          }
-        },
-        "Click": {
-          "Default-Text": {
-            "value": "{Brand-Global-System.White}",
-            "type": "color",
-            "description": ""
-          },
-          "Default-Background": {
-            "value": "{Brand-Global-Black.Light-50}",
-            "type": "color",
-            "description": ""
-          }
-        },
-        "Disabled": {
-          "Default-Text": {
-            "value": "{Brand-Global-Black.Light-82}",
-            "type": "color",
-            "description": ""
-          },
-          "Default-Border": {
-            "value": "{Brand-Global-Black.Light-82}",
-            "type": "color",
-            "description": ""
-          }
-        }
       }
     },
     "Teaser": {
