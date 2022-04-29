@@ -1157,5 +1157,178 @@
       "value": "4",
       "type": "borderRadius"
     }
+  },
+  "1&1": {
+    "Brand-Primary": {
+      "Dark-20": {
+        "value": "#CCBE00",
+        "type": "color"
+      },
+      "Dark-10": {
+        "value": "#E5D500",
+        "type": "color"
+      },
+      "Default": {
+        "value": "#FFED00",
+        "type": "color"
+      },
+      "Light-15": {
+        "value": "#FFF026",
+        "type": "color"
+      },
+      "Light-30": {
+        "value": "#FFF24D",
+        "type": "color"
+      },
+      "Light-50": {
+        "value": "#FFF680",
+        "type": "color"
+      },
+      "Light-70": {
+        "value": "#FFFAB3",
+        "type": "color"
+      },
+      "Light-82": {
+        "value": "#FFFCD1",
+        "type": "color"
+      },
+      "Light-94": {
+        "value": "#FFFEF0",
+        "type": "color"
+      }
+    },
+    "Brand-Secondary": {
+      "Dark-20": {
+        "value": "#0F3376",
+        "type": "color"
+      },
+      "Dark-10": {
+        "value": "#113985",
+        "type": "color"
+      },
+      "Default": {
+        "value": "#134094",
+        "type": "color"
+      },
+      "Light-15": {
+        "value": "#365CA4",
+        "type": "color"
+      },
+      "Light-30": {
+        "value": "#5A7AB4",
+        "type": "color"
+      },
+      "Light-50": {
+        "value": "#89A0CA",
+        "type": "color"
+      },
+      "Light-70": {
+        "value": "#B9C6DF",
+        "type": "color"
+      },
+      "Light-82": {
+        "value": "#D4DDEC",
+        "type": "color"
+      },
+      "Light-94": {
+        "value": "#F1F4F9",
+        "type": "color"
+      }
+    },
+    "Button": {
+      "Primary": {
+        "Default": {
+          "Default-Text": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          },
+          "Default-Background": {
+            "value": "{Brand-Primary.Default}",
+            "type": "color"
+          }
+        },
+        "Click": {
+          "Click-Text": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          },
+          "Click-Background": {
+            "value": "{Brand-Primary.Dark-20}",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Hover-Text": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          },
+          "Hover-Background": {
+            "value": "{Brand-Primary.Default}",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Disabled-Text": {
+            "value": "{Brand-Secondary.Light-82}",
+            "type": "color"
+          },
+          "Disabled-Background": {
+            "value": "{Brand-Primary.Light-82}",
+            "type": "color"
+          }
+        }
+      },
+      "Secondary": {
+        "Default": {
+          "Default-Text": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color",
+            "description": "Border, Background, Text"
+          },
+          "Default-Background": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Default-Border": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Hover-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Hover-Background": {
+            "value": "{Brand-Secondary.Dark-20}",
+            "type": "color"
+          }
+        },
+        "Click": {
+          "Click-Text": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "Click-Background": {
+            "value": "{Brand-Secondary.Default}",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Disabled-Text": {
+            "value": "{Brand-Secondary.Light-82}",
+            "type": "color"
+          },
+          "Disabled-Border": {
+            "value": "{Brand-Secondary.Light-82}",
+            "type": "color"
+          },
+          "Disabled-Background": {
+            "value": "#FFFFFF",
+            "type": "color"
+          }
+        }
+      }
+    }
   }
 }
