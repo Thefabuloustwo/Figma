@@ -1130,6 +1130,10 @@
         "value": "#FFF24D",
         "type": "color"
       },
+      "Light-40": {
+        "value": "#FFF680",
+        "type": "color"
+      },
       "Light-50": {
         "value": "#FFF680",
         "type": "color"
@@ -1165,6 +1169,10 @@
         "type": "color"
       },
       "Light-30": {
+        "value": "#5A7AB4",
+        "type": "color"
+      },
+      "Light-40": {
         "value": "#5A7AB4",
         "type": "color"
       },
