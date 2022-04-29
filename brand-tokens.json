@@ -1306,24 +1306,24 @@
             "type": "color"
           }
         }
+      }
+    },
+    "Header": {
+      "Background": {
+        "value": "{Brand-Secondary.Default}",
+        "type": "color"
       },
-      "Header": {
-        "Background": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "Accent": {
-          "value": "{Brand-Primary.Default}",
-          "type": "color"
-        },
-        "Search-Button": {
-          "value": "{Brand-Primary.Default}",
-          "type": "color"
-        },
-        "Search-Button-Icon": {
-          "value": "{Brand-Global-Black.Default}",
-          "type": "color"
-        }
+      "Accent": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      },
+      "Search-Button": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      },
+      "Search-Button-Icon": {
+        "value": "{Brand-Secondary.Default}",
+        "type": "color"
       }
     }
   }
