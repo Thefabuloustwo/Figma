@@ -1322,7 +1322,7 @@
         "type": "color"
       },
       "Accent": {
-        "value": "{Brand-Primary.Default}",
+        "value": "{Brand-Secondary.Default}",
         "type": "color"
       },
       "Search-Button": {
