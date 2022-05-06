@@ -108,12 +108,12 @@
       "Tertiary": {
         "Default": {
           "Default-Text": {
-            "value": "{Brand-Global-Black.Light-50}",
+            "value": "{Brand-Global-Black.Light-15}",
             "type": "color",
             "description": ""
           },
           "Default-Border": {
-            "value": "{Brand-Global-Black.Light-50}",
+            "value": "{Brand-Global-Black.Light-15}",
             "type": "color",
             "description": ""
           }
@@ -125,7 +125,7 @@
             "description": ""
           },
           "Hover-Background": {
-            "value": "{Brand-Global-Black.Light-30}",
+            "value": "{Brand-Global-Black.Default}",
             "type": "color",
             "description": ""
           }
@@ -137,7 +137,7 @@
             "description": ""
           },
           "Default-Background": {
-            "value": "{Brand-Global-Black.Light-30}",
+            "value": "{Brand-Global-Black.Light-15}",
             "type": "color",
             "description": ""
           }
