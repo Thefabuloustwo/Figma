@@ -104,7 +104,7 @@
         "type": "color"
       }
     },
-    "Brand-Global-Buttons": {
+    "Buttons": {
       "Tertiary": {
         "Default": {
           "Default-Text": {
@@ -119,7 +119,7 @@
           }
         },
         "Hover": {
-          "Default-Text": {
+          "Hover-Text": {
             "value": "{Brand-Global-System.White}",
             "type": "color",
             "description": ""
@@ -131,24 +131,24 @@
           }
         },
         "Click": {
-          "Default-Text": {
+          "Click-Text": {
             "value": "{Brand-Global-System.White}",
             "type": "color",
             "description": ""
           },
-          "Default-Background": {
+          "Click-Background": {
             "value": "{Brand-Global-Black.Light-30}",
             "type": "color",
             "description": ""
           }
         },
         "Disabled": {
-          "Default-Text": {
+          "Disabled-Text": {
             "value": "{Brand-Global-Black.Light-82}",
             "type": "color",
             "description": ""
           },
-          "Default-Border": {
+          "Disabled-Border": {
             "value": "{Brand-Global-Black.Light-82}",
             "type": "color",
             "description": ""
@@ -169,7 +169,7 @@
           }
         },
         "Hover": {
-          "Default-Text": {
+          "Hover-Text": {
             "value": "{Brand-Global-Black.Default}",
             "type": "color",
             "description": ""
@@ -181,24 +181,24 @@
           }
         },
         "Click": {
-          "Default-Text": {
+          "Click-Text": {
             "value": "{Brand-Global-Black.Default}",
             "type": "color",
             "description": ""
           },
-          "Default-Background": {
+          "Click-Background": {
             "value": "{Brand-Global-System.White}",
             "type": "color",
             "description": ""
           }
         },
         "Disabled": {
-          "Default-Text": {
+          "Disabled-Text": {
             "value": "{Brand-Global-Black.Light-82}",
             "type": "color",
             "description": ""
           },
-          "Default-Border": {
+          "Disabled-Border": {
             "value": "{Brand-Global-Black.Light-82}",
             "type": "color",
             "description": ""
@@ -219,7 +219,7 @@
           }
         },
         "Hover": {
-          "Default-Text": {
+          "Hover-Text": {
             "value": "{Brand-Global-System.White}",
             "type": "color",
             "description": ""
@@ -231,24 +231,24 @@
           }
         },
         "Click": {
-          "Default-Text": {
+          "Click-Text": {
             "value": "{Brand-Global-System.White}",
             "type": "color",
             "description": ""
           },
-          "Default-Background": {
+          "Click-Background": {
             "value": "{Brand-Global-Black.Light-50}",
             "type": "color",
             "description": ""
           }
         },
         "Disabled": {
-          "Default-Text": {
+          "Disabled-Text": {
             "value": "{Brand-Global-Black.Light-82}",
             "type": "color",
             "description": ""
           },
-          "Default-Border": {
+          "Disabled-Border": {
             "value": "{Brand-Global-Black.Light-82}",
             "type": "color",
             "description": ""
