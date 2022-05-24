@@ -170,7 +170,7 @@
         },
         "Hover": {
           "Default-Text": {
-            "value": "{Brand-Global-Black.Light-50}",
+            "value": "{Brand-Global-Black.Default}",
             "type": "color",
             "description": ""
           },
@@ -1334,5 +1334,6 @@
         "type": "color"
       }
     }
-  }
+  },
+  "$themes": []
 }
