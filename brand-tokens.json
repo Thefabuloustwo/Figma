@@ -212,8 +212,8 @@
             "type": "color",
             "description": ""
           },
-          "Default-Background": {
-            "value": "{Brand-Global-System.White}",
+          "Default-Border": {
+            "value": "{Brand-Global-Black.Light-15}",
             "type": "color",
             "description": ""
           }
