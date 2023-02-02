@@ -1389,6 +1389,32 @@
         "value": "{Brand-Secondary.Default}",
         "type": "color"
       }
+    },
+    "Specials": {
+      "Login-Bar-HP-Icon": {
+        "value": "{Brand-Secondary.Default}",
+        "type": "color"
+      },
+      "App-Header-Background": {
+        "value": "{Brand-Secondary.Default}",
+        "type": "color"
+      },
+      "App-Icon": {
+        "value": "{Brand-Global-System.White}",
+        "type": "color"
+      },
+      "App-Header-Elements": {
+        "value": "{Brand-Global-System.White}",
+        "type": "color"
+      },
+      "App-Android-Background": {
+        "value": "{Brand-Global-System.White}",
+        "type": "color"
+      },
+      "App-Android-Elements": {
+        "value": "{Brand-Secondary.Default}",
+        "type": "color"
+      }
     }
   },
   "$themes": [],
