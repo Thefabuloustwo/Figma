@@ -1400,15 +1400,15 @@
         "type": "color"
       },
       "App-Icon": {
-        "value": "{Brand-Global-System.White}",
+        "value": "#ffffff",
         "type": "color"
       },
       "App-Header-Elements": {
-        "value": "{Brand-Global-System.White}",
+        "value": "#ffffff",
         "type": "color"
       },
       "App-Android-Background": {
-        "value": "{Brand-Global-System.White}",
+        "value": "#ffffff",
         "type": "color"
       },
       "App-Android-Elements": {
