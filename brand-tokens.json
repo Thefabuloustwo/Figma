@@ -1097,6 +1097,36 @@
       "Search-Button-Icon": {
         "value": "{Brand-Global-System.White}",
         "type": "color"
+      },
+      "Button-Register": {
+        "Button-Text": {
+          "value": "{Brand-Global-System.White}",
+          "type": "color"
+        },
+        "Button-Border": {
+          "value": "{Brand-Global-System.White}",
+          "type": "color"
+        },
+        "Button-Background": {
+          "value": "{Brand-Global-System.White}",
+          "type": "color"
+        }
+      },
+      "Button-Search": {
+        "Button-Icon": {
+          "value": "{Brand-Global-System.White}",
+          "type": "color"
+        },
+        "Button-Background": {
+          "value": "{Brand-Primary.Dark-20}",
+          "type": "color"
+        }
+      },
+      "Inline": {
+        "Icon-Search": {
+          "value": "{Brand-Primary.Default}",
+          "type": "color"
+        }
       }
     },
     "Small": {
@@ -1106,6 +1136,32 @@
     "Default": {
       "value": "4",
       "type": "borderRadius"
+    },
+    "Specials": {
+      "Login-Bar-HP-Icon": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      },
+      "App-Header-Background": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      },
+      "App-Icon": {
+        "value": "{Brand-Global-System.White}",
+        "type": "color"
+      },
+      "App-Header-Elements": {
+        "value": "{Brand-Global-System.White}",
+        "type": "color"
+      },
+      "App-Android-Background": {
+        "value": "{Brand-Global-System.White}",
+        "type": "color"
+      },
+      "App-Android-Elements": {
+        "value": "{Brand-Primary.Default}",
+        "type": "color"
+      }
     }
   },
   "1and1": {
@@ -1335,5 +1391,14 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Global",
+      "WEBDE",
+      "GMX",
+      "UIKIT",
+      "1and1"
+    ]
+  }
 }
