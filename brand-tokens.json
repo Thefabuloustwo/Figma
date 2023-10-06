@@ -1529,6 +1529,427 @@
       }
     }
   },
+  "Global Dark": {
+    "Neutral": {
+      "Dark-20": {
+        "value": "#292929",
+        "type": "color"
+      },
+      "Dark-10": {
+        "value": "#2e2e2e",
+        "type": "color"
+      },
+      "Default": {
+        "value": "#333333",
+        "type": "color"
+      },
+      "Light-15": {
+        "value": "#ffffffd9",
+        "type": "color"
+      },
+      "Light-30": {
+        "value": "#ffffffb3",
+        "type": "color"
+      },
+      "Light-40": {
+        "value": "#ffffff99",
+        "type": "color"
+      },
+      "Light-50": {
+        "value": "#ffffff80",
+        "type": "color"
+      },
+      "Light-70": {
+        "value": "#ffffff4d",
+        "type": "color"
+      },
+      "Light-82": {
+        "value": "#ffffff2e",
+        "type": "color"
+      },
+      "Light-94": {
+        "value": "#ffffff0f",
+        "type": "color"
+      }
+    },
+    "System": {
+      "Error": {
+        "value": "#ff0000",
+        "type": "color"
+      },
+      "Error-Light": {
+        "value": "#d4000040",
+        "type": "color"
+      },
+      "Success": {
+        "value": "#5cb82a",
+        "type": "color"
+      },
+      "Success-Light": {
+        "value": "#5cb82a40",
+        "type": "color"
+      },
+      "Warning": {
+        "value": "#f0bc00",
+        "type": "color"
+      },
+      "Warning-Light": {
+        "value": "#f0bc0040",
+        "type": "color"
+      },
+      "Info": {
+        "value": "#467dd4",
+        "type": "color"
+      },
+      "Info-Light": {
+        "value": "#1c8ad940",
+        "type": "color"
+      },
+      "Hyperlink": {
+        "value": "#467dd4",
+        "type": "color",
+        "description": "AA Conform 4.5:1"
+      },
+      "Hyperlink (GMX)": {
+        "value": "#467dcd",
+        "type": "color",
+        "description": "NOT AA CONFORM"
+      },
+      "Hyperlink (OLD)": {
+        "value": "#2269c3",
+        "type": "color"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Black": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "Buttons": {
+      "Tertiary": {
+        "Click": {
+          "Background": {
+            "value": "#ffffff2e",
+            "type": "color"
+          },
+          "Text": {
+            "value": "#121419",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Text": {
+            "value": "#ffffff2e",
+            "type": "color"
+          },
+          "Border": {
+            "value": "#ffffff2e",
+            "type": "color"
+          }
+        },
+        "Default": {
+          "Text": {
+            "value": "#ffffff80",
+            "type": "color"
+          },
+          "Border": {
+            "value": "#ffffff80",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Text": {
+            "value": "#121419",
+            "type": "color"
+          },
+          "Background": {
+            "value": "#515151",
+            "type": "color"
+          }
+        }
+      },
+      "Media": {
+        "Default": {
+          "Text": {
+            "value": "#dadada",
+            "type": "color"
+          },
+          "Border": {
+            "value": "#dadada",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Text": {
+            "value": "#333333",
+            "type": "color"
+          },
+          "Background": {
+            "value": "#dadada",
+            "type": "color"
+          }
+        },
+        "Click": {
+          "Text": {
+            "value": "#333333",
+            "type": "color"
+          },
+          "Background": {
+            "value": "#dadada",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Text": {
+            "value": "#dadada4d",
+            "type": "color"
+          },
+          "Border": {
+            "value": "#dadada4d",
+            "type": "color"
+          }
+        }
+      },
+      "Consent": {
+        "Default": {
+          "Default-Text": {
+            "value": "#515151",
+            "type": "color"
+          },
+          "Default-Border": {
+            "value": "#515151",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Hover-Text": {
+            "value": "#dadada",
+            "type": "color"
+          },
+          "Hover-Background": {
+            "value": "#717171",
+            "type": "color"
+          }
+        },
+        "Click": {
+          "Click-Text": {
+            "value": "#dadada",
+            "type": "color"
+          },
+          "Click-Background": {
+            "value": "#999999",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Disabled-Text": {
+            "value": "#dadada4d",
+            "type": "color"
+          },
+          "Disabled-Border": {
+            "value": "#dadada4d",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "Labels": {
+      "DocType": {
+        "Background": {
+          "value": "#515151",
+          "type": "color"
+        },
+        "Text": {
+          "value": "#dadada",
+          "type": "color"
+        }
+      },
+      "Partner": {
+        "Background": {
+          "value": "#03060e",
+          "type": "color"
+        },
+        "Text": {
+          "value": "#999999",
+          "type": "color"
+        },
+        "Outline": {
+          "value": "#41434700",
+          "type": "color"
+        }
+      },
+      "Breaking News": {
+        "Background": {
+          "value": "#d40000",
+          "type": "color"
+        },
+        "Text": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    },
+    "Background": {
+      "Page": {
+        "value": "#121419",
+        "type": "color"
+      },
+      "OnPage": {
+        "value": "#03060e",
+        "type": "color",
+        "description": "D-L4 (1B1D1F)"
+      },
+      "Overlay": {
+        "value": "#03060e",
+        "type": "color"
+      },
+      "Opac": {
+        "value": "#03060ebf",
+        "type": "color"
+      }
+    },
+    "Form": {
+      "Icon": {
+        "value": "#ffffff80",
+        "type": "color"
+      },
+      "Field": {
+        "Label": {
+          "value": "#dadada",
+          "type": "color"
+        },
+        "Outline": {
+          "value": "#ffffff1a",
+          "type": "color"
+        }
+      },
+      "Pretext": {
+        "High Visibility": {
+          "value": "#dadada",
+          "type": "color"
+        },
+        "Low Visibility": {
+          "value": "#999999",
+          "type": "color"
+        }
+      }
+    },
+    "Text": {
+      "High Visibility": {
+        "value": "#dadada",
+        "type": "color",
+        "description": "Light 82"
+      },
+      "Medium Visibility": {
+        "value": "#999999",
+        "type": "color",
+        "description": "Light 50"
+      },
+      "Low Visibility": {
+        "value": "#858585",
+        "type": "color",
+        "description": "Light 40"
+      }
+    },
+    "Icons": {
+      "Low Visibility": {
+        "value": "#ffffff33",
+        "type": "color"
+      },
+      "Medium Visibility": {
+        "value": "#999999",
+        "type": "color"
+      },
+      "High Visibility": {
+        "value": "#dadada",
+        "type": "color",
+        "description": "Light 82"
+      }
+    },
+    "Gradients": {
+      "Picture Gradient": {
+        "value": "linear-gradient(180deg, #12141900 0%, #121419 100%)",
+        "type": "color"
+      }
+    },
+    "Notification": {
+      "Text Dark": {
+        "value": "#121219",
+        "type": "color"
+      },
+      "Icon Dark": {
+        "value": "#121219",
+        "type": "color"
+      },
+      "Text Bright": {
+        "value": "#121419",
+        "type": "color"
+      },
+      "Icon Bright": {
+        "value": "#121419",
+        "type": "color"
+      }
+    },
+    "Illustration": {
+      "Low Visibility": {
+        "value": "#ffffff33",
+        "type": "color"
+      },
+      "High Visibility": {
+        "value": "#ffffff4d",
+        "type": "color"
+      }
+    },
+    "Table": {
+      "Background Bright": {
+        "value": "#ffffff0d",
+        "type": "color"
+      },
+      "Background Dark": {
+        "value": "#ffffff00",
+        "type": "color"
+      }
+    },
+    "Seperator": {
+      "Low Visibility": {
+        "value": "#ffffff0d",
+        "type": "color"
+      },
+      "Medium Visibility": {
+        "value": "#ffffff1a",
+        "type": "color"
+      },
+      "High Visibility": {
+        "value": "#ffffff80",
+        "type": "color"
+      }
+    },
+    "Shadow Top": {
+      "value": {
+        "color": "#ffffff1a",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 15,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "Shadow Bottom": {
+      "value": {
+        "color": "#ffffff0d",
+        "type": "dropShadow",
+        "x": 0,
+        "y": -10,
+        "blur": 15,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -1536,7 +1957,8 @@
       "WEBDE",
       "GMX",
       "UIKIT",
-      "1and1"
+      "1and1",
+      "Global Dark"
     ]
   }
 }
