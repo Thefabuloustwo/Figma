@@ -723,11 +723,393 @@
       }
     }
   },
+  "Global Dark": {
+    "Neutral": {
+      "Dark 20": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Dark 10": {
+        "value": "#eeeeee",
+        "type": "color"
+      },
+      "Default": {
+        "value": "#dadada",
+        "type": "color"
+      },
+      "Light 15": {
+        "value": "#ffffffd9",
+        "type": "color"
+      },
+      "Light 30": {
+        "value": "#ffffffb3",
+        "type": "color"
+      },
+      "Light 40": {
+        "value": "#ffffff99",
+        "type": "color"
+      },
+      "Light 50": {
+        "value": "#ffffff80",
+        "type": "color"
+      },
+      "Light 70": {
+        "value": "#ffffff4d",
+        "type": "color"
+      },
+      "Light 82": {
+        "value": "#ffffff2e",
+        "type": "color"
+      },
+      "Light 94": {
+        "value": "#ffffff0f",
+        "type": "color"
+      }
+    },
+    "System": {
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "Opac": {
+        "value": "#03060ebf",
+        "type": "color"
+      },
+      "Hyperlink": {
+        "value": "#467dd4",
+        "type": "color",
+        "description": "AA Conform 4.5:1"
+      }
+    },
+    "Page": {
+      "Background": {
+        "value": "#121419",
+        "type": "color"
+      },
+      "OnBackground Light": {
+        "value": "#ffffff0d",
+        "type": "color"
+      },
+      "OnBackground Dark": {
+        "value": "#03060e",
+        "type": "color",
+        "description": "D-L4 (1B1D1F)"
+      },
+      "Overlay": {
+        "value": "#03060e",
+        "type": "color"
+      }
+    },
+    "Button": {
+      "Tertiary": {
+        "Click": {
+          "Background": {
+            "value": "#ffffff80",
+            "type": "color"
+          },
+          "Label": {
+            "value": "#121419",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Label": {
+            "value": "#ffffff2e",
+            "type": "color"
+          },
+          "Border": {
+            "value": "#ffffff2e",
+            "type": "color"
+          }
+        },
+        "Default": {
+          "Label": {
+            "value": "#ffffff80",
+            "type": "color"
+          },
+          "Border": {
+            "value": "#ffffff80",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Label": {
+            "value": "#121419",
+            "type": "color"
+          },
+          "Background": {
+            "value": "#ffffff4d",
+            "type": "color"
+          }
+        },
+        "Active": {
+          "Background": {
+            "value": "#ffffff80",
+            "type": "color"
+          },
+          "Label": {
+            "value": "#121419",
+            "type": "color"
+          }
+        }
+      },
+      "Media": {
+        "Default": {
+          "Label": {
+            "value": "#dadada",
+            "type": "color"
+          },
+          "Border": {
+            "value": "#dadada",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Label": {
+            "value": "#333333",
+            "type": "color"
+          },
+          "Background": {
+            "value": "#dadada",
+            "type": "color"
+          }
+        },
+        "Click": {
+          "Label": {
+            "value": "#dadada",
+            "type": "color"
+          },
+          "Background": {
+            "value": "#2a2c30",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Label": {
+            "value": "#dadada4d",
+            "type": "color"
+          },
+          "Border": {
+            "value": "#dadada4d",
+            "type": "color"
+          }
+        },
+        "Active": {
+          "Background": {
+            "value": "#dadada",
+            "type": "color"
+          },
+          "Label": {
+            "value": "#121419",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "Notification": {
+      "Text": {
+        "value": "#121219",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "#121219",
+        "type": "color"
+      },
+      "Error": {
+        "value": "#ff0000",
+        "type": "color"
+      },
+      "Success": {
+        "value": "#5cb82a",
+        "type": "color"
+      },
+      "Warning": {
+        "value": "#f0bc00",
+        "type": "color"
+      },
+      "Info": {
+        "value": "#467dd4",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "High Visibility": {
+        "value": "#ffffffd9",
+        "type": "color",
+        "description": "Light 82"
+      },
+      "Low Visibility": {
+        "value": "#ffffff73",
+        "type": "color"
+      }
+    },
+    "Chip": {
+      "DocType": {
+        "Background": {
+          "value": "#515151",
+          "type": "color"
+        },
+        "Label": {
+          "value": "#dadada",
+          "type": "color"
+        }
+      },
+      "Partner": {
+        "Background": {
+          "value": "#03060e",
+          "type": "color"
+        },
+        "Label": {
+          "value": "#999999",
+          "type": "color"
+        }
+      },
+      "Breaking News": {
+        "Background": {
+          "value": "#d40000",
+          "type": "color"
+        },
+        "Label": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    },
+    "Form": {
+      "Icon": {
+        "Default": {
+          "value": "#ffffff73",
+          "type": "color"
+        }
+      },
+      "Element": {
+        "Default": {
+          "Label": {
+            "value": "#ffffffcc",
+            "type": "color"
+          },
+          "Background": {
+            "value": "#12141900",
+            "type": "color"
+          },
+          "Border": {
+            "value": "#ffffff26",
+            "type": "color"
+          }
+        },
+        "Error": {
+          "Border": {
+            "value": "#d40000",
+            "type": "color"
+          }
+        }
+      },
+      "Pretext": {
+        "High Visibility": {
+          "value": "#ffffffcc",
+          "type": "color"
+        },
+        "Low Visibility": {
+          "value": "#ffffff73",
+          "type": "color"
+        }
+      }
+    },
+    "Icon": {
+      "Low Visibility": {
+        "value": "#ffffff33",
+        "type": "color"
+      },
+      "Medium Visibility": {
+        "value": "#ffffff8c",
+        "type": "color"
+      },
+      "High Visibility": {
+        "value": "#ffffffd9",
+        "type": "color",
+        "description": "Light 82"
+      }
+    },
+    "Gradient": {
+      "Picture Gradient": {
+        "value": "linear-gradient(180deg, #12141900 0%, #121419 100%)",
+        "type": "color"
+      }
+    },
+    "Illustration": {
+      "Low Visibility": {
+        "value": "#ffffff1a",
+        "type": "color"
+      },
+      "Medium Visibility": {
+        "value": "#ffffff33",
+        "type": "color"
+      },
+      "High Visibility": {
+        "value": "#ffffff4d",
+        "type": "color"
+      }
+    },
+    "Table": {
+      "Background Bright": {
+        "value": "#ffffff0d",
+        "type": "color"
+      },
+      "Background Dark": {
+        "value": "#ffffff00",
+        "type": "color"
+      }
+    },
+    "Separator": {
+      "Low Visibility": {
+        "value": "#ffffff0d",
+        "type": "color",
+        "description": "Not in Use!"
+      },
+      "Medium Visibility": {
+        "value": "#ffffff1a",
+        "type": "color",
+        "description": "Default"
+      },
+      "High Visibility": {
+        "value": "#ffffff80",
+        "type": "color",
+        "description": "Not in Use!"
+      }
+    },
+    "Shadow Top": {
+      "value": {
+        "color": "#ffffff1a",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 15,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    },
+    "Shadow Bottom": {
+      "value": {
+        "color": "#ffffff0d",
+        "type": "dropShadow",
+        "x": 0,
+        "y": -10,
+        "blur": 15,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "UI KIt",
-      "Global Light"
+      "Global Light",
+      "Global Dark"
     ]
   }
 }
