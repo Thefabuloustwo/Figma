@@ -440,7 +440,7 @@
             "type": "color"
           },
           "Label": {
-            "value": "{{System.White}}",
+            "value": "{System.White}",
             "type": "color"
           }
         },
