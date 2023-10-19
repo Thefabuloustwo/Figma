@@ -376,7 +376,7 @@
         "type": "color"
       },
       "Light 70": {
-        "value": "#c2c2c2",
+        "value": "#C2C2C2",
         "type": "color"
       },
       "Light 82": {
@@ -390,7 +390,7 @@
     },
     "System": {
       "White": {
-        "value": "#ffffff",
+        "value": "#FFFFFF",
         "type": "color"
       },
       "Black": {
@@ -408,15 +408,15 @@
     },
     "Notification": {
       "Text": {
-        "value": "#ffffff",
+        "value": "#FFFFFF",
         "type": "color"
       },
       "Icon": {
-        "value": "#ffffff",
+        "value": "#FFFFFF",
         "type": "color"
       },
       "Error": {
-        "value": "#d40000",
+        "value": "#D40000",
         "type": "color"
       },
       "Success": {
@@ -436,51 +436,51 @@
       "Tertiary": {
         "Click": {
           "Background": {
-            "value": "#717171",
+            "value": "{Neutral.Light 30}",
             "type": "color"
           },
           "Label": {
-            "value": "#ffffff",
+            "value": "{{System.White}}",
             "type": "color"
           }
         },
         "Disabled": {
           "Border": {
-            "value": "#dadada",
+            "value": "{Neutral.Light 82}",
             "type": "color"
           },
           "Label": {
-            "value": "#dadada",
+            "value": "{Neutral.Light 82}",
             "type": "color"
           }
         },
         "Default": {
           "Border": {
-            "value": "#717171",
+            "value": "{Neutral.Light 30}",
             "type": "color"
           },
           "Label": {
-            "value": "#717171",
+            "value": "{Neutral.Light 30}",
             "type": "color"
           }
         },
         "Hover": {
           "Background": {
-            "value": "#515151",
+            "value": "{Neutral.Light 15}",
             "type": "color"
           },
           "Label": {
-            "value": "#ffffff",
+            "value": "{System.White}",
             "type": "color"
           }
         },
         "Active": {
           "Background": {
-            "value": "#717171",
+            "value": "{Neutral.Light 30}",
             "type": "color"
           },
           "Label": {
-            "value": "#ffffff",
+            "value": "{System.White}",
             "type": "color"
           }
         }
@@ -488,51 +488,51 @@
       "Media": {
         "Default": {
           "Border": {
-            "value": "#ffffff",
+            "value": "{System.White}",
             "type": "color"
           },
           "Label": {
-            "value": "#ffffff",
+            "value": "{System.White}",
             "type": "color"
           }
         },
         "Hover": {
           "Label": {
-            "value": "#333333",
+            "value": "{Neutral.Light 30}",
             "type": "color"
           },
           "Background": {
-            "value": "#ffffff",
+            "value": "{System.White}",
             "type": "color"
           }
         },
         "Click": {
           "Label": {
-            "value": "#333333",
+            "value": "{Neutral.Light 30}",
             "type": "color"
           },
           "Background": {
-            "value": "#c2c2c2",
+            "value": "{Neutral.Light 70}",
             "type": "color"
           }
         },
         "Disabled": {
           "Label": {
-            "value": "#dadada",
+            "value": "{Neutral.Light 82}",
             "type": "color"
           },
           "Border": {
-            "value": "#dadada",
+            "value": "{Neutral.Light 82}",
             "type": "color"
           }
         },
         "Active": {
           "Background": {
-            "value": "#ffffff",
+            "value": "{System.White}",
             "type": "color"
           },
           "Label": {
-            "value": "#333333",
+            "value": "{Neutral.Light 30}",
             "type": "color"
           }
         }
@@ -541,60 +541,60 @@
     "Chip": {
       "Partner": {
         "Background": {
-          "value": "#dadada",
+          "value": "{Neutral.Light 82}",
           "type": "color"
         },
         "Label": {
-          "value": "#333333",
+          "value": "{Neutral.Light 30}",
           "type": "color"
         }
       },
       "DocType": {
         "Background": {
-          "value": "#515151",
+          "value": "{Neutral.Light 15}",
           "type": "color"
         },
         "Label": {
-          "value": "#ffffff",
+          "value": "{System.White}",
           "type": "color"
         }
       },
       "Breaking News": {
         "Background": {
-          "value": "#d40000",
+          "value": "Notification.Error",
           "type": "color"
         },
         "Label": {
-          "value": "#ffffff",
+          "value": "{System.White}",
           "type": "color"
         }
       }
     },
     "Page": {
       "Background": {
-        "value": "#ffffff",
+        "value": "{System.White}",
         "type": "color"
       },
       "OnBackground Light": {
-        "value": "#f3f3f3",
+        "value": "Neutral.Light 94",
         "type": "color"
       },
       "OnBackground Dark": {
-        "value": "#333333",
+        "value": "{Neutral.Light 30}",
         "type": "color"
       },
       "Overlay": {
-        "value": "#ffffff",
+        "value": "{System.White}",
         "type": "color"
       }
     },
     "Text": {
       "High Visibility": {
-        "value": "#333333",
+        "value": "{Neutral.Light 30}",
         "type": "color"
       },
       "Low Visibility": {
-        "value": "#717171",
+        "value": "{Neutral.Light 30",
         "type": "color",
         "description": "54% Schwarz oder Light 30"
       }
@@ -603,15 +603,15 @@
       "Element": {
         "Default": {
           "Label": {
-            "value": "#333333",
+            "value": "{Neutral.Light 30}",
             "type": "color"
           },
           "Background": {
-            "value": "#ffffff",
+            "value": "{System.White}",
             "type": "color"
           },
           "Border": {
-            "value": "#c2c2c2",
+            "value": "{Neutral.Light 70}",
             "type": "color"
           }
         },
@@ -624,32 +624,32 @@
       },
       "Pretext": {
         "Low Visibility": {
-          "value": "#c2c2c2",
+          "value": "{Neutral.Light 70}",
           "type": "color"
         },
         "High Visibility": {
-          "value": "#333333",
+          "value": "{Neutral.Light 30}",
           "type": "color"
         }
       },
       "Icon": {
         "Default": {
-          "value": "#333333",
+          "value": "{Neutral.Light 30}",
           "type": "color"
         }
       }
     },
     "Icon": {
       "Low Visibility": {
-        "value": "#dadada",
+        "value": "{Neutral.Light 82}",
         "type": "color"
       },
       "Medium Visibility": {
-        "value": "#999999",
+        "value": "Neutral.Light 50",
         "type": "color"
       },
       "High Visibility": {
-        "value": "#333333",
+        "value": "{Neutral.Light 30}",
         "type": "color"
       }
     },
@@ -661,47 +661,47 @@
     },
     "Illustration": {
       "Low Visibility": {
-        "value": "#3333331a",
+        "value": "{Neutral.Light 30}1a",
         "type": "color"
       },
       "Medium Visibility": {
-        "value": "#33333380",
+        "value": "{Neutral.Light 30}80",
         "type": "color"
       },
       "High Visibility": {
-        "value": "#333333",
+        "value": "{Neutral.Light 30}",
         "type": "color"
       }
     },
     "Table": {
       "Background Bright": {
-        "value": "#f3f3f3",
+        "value": "Neutral.Light 94",
         "type": "color"
       },
       "Background Dark": {
-        "value": "#dadada",
+        "value": "{Neutral.Light 82}",
         "type": "color"
       }
     },
     "Separator": {
       "Low Visibility": {
-        "value": "#dadada",
+        "value": "{Neutral.Light 82}",
         "type": "color"
       },
       "Default": {
-        "value": "#c2c2c2",
+        "value": "{Neutral.Light 70}",
         "type": "color",
         "description": "Light 70"
       },
       "High Visibility": {
-        "value": "#999999",
+        "value": "Neutral.Light 50",
         "type": "color"
       }
     },
     "Shadow": {
       "Top": {
         "value": {
-          "color": "#00000026",
+          "color": "System.Black26",
           "type": "dropShadow",
           "x": 0,
           "y": 0,
@@ -712,7 +712,7 @@
       },
       "Bottom": {
         "value": {
-          "color": "#00000026",
+          "color": "System.Black26",
           "type": "dropShadow",
           "x": 0,
           "y": -10,
@@ -1770,30 +1770,26 @@
         "type": "color"
       },
       "iOS": {
-        "": {
-          "Header": {
-            "Background": {
-              "value": "#1c449b",
-              "type": "color"
-            },
-            "Element": {
-              "value": "#ffffff",
-              "type": "color"
-            }
+        "Header": {
+          "Background": {
+            "value": "#1c449b",
+            "type": "color"
+          },
+          "Element": {
+            "value": "#ffffff",
+            "type": "color"
           }
         }
       },
       "Android": {
-        "": {
-          "Header": {
-            "Background": {
-              "value": "#1c449b",
-              "type": "color"
-            },
-            "Element": {
-              "value": "#ffffff",
-              "type": "color"
-            }
+        "Header": {
+          "Background": {
+            "value": "#1c449b",
+            "type": "color"
+          },
+          "Element": {
+            "value": "#ffffff",
+            "type": "color"
           }
         }
       }
